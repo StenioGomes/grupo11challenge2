@@ -1,0 +1,15 @@
+
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-text-splitters
+langchain-ollama
+
+pypdf
+python-dotenv
+jupyter
+ipykernel
+
+chromadb
+chromadb[cli]
