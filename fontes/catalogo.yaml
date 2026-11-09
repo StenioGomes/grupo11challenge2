@@ -1,0 +1,319 @@
+# =====================================================================
+# CATÁLOGO DA BASE DE CONHECIMENTO (curadoria)
+# =====================================================================
+# Cada item é UM documento-fonte. O catálogo é o "contrato" da base:
+# o pipeline só ingere o que está aqui, e todo chunk herda estes
+# metadados. É isso que garante a RASTREABILIDADE das respostas.
+#
+# Campos:
+#   id             identificador estável (vira nome do arquivo e metadado)
+#   titulo         título oficial do documento
+#   instituicao    quem publicou (autoridade da fonte)
+#   ano            ano de publicação (aproximado quando a página não informa)
+#   url            endereço público de onde o documento é baixado
+#   alternativas   (opcional) outras URLs tentadas, em ordem, se a principal falhar
+#   formato        pdf | html (formato esperado; o formato real é detectado no download)
+#   idioma         pt | en
+#   eixo           agrupamento temático da curadoria (ver docs/base_conhecimento.md)
+#   foco_mulheres  true se o documento trata especificamente de mulheres/gênero
+#   por_que        critério de inclusão (por que esta fonte está na base)
+# =====================================================================
+
+fontes:
+
+  # ---------------- EIXO 1: Fundamentos de educação financeira ----------------
+  - id: bcb_caderno_educacao_financeira
+    titulo: "Caderno de Educação Financeira – Gestão de Finanças Pessoais"
+    instituicao: "Banco Central do Brasil"
+    ano: 2013
+    url: "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: fundamentos
+    foco_mulheres: false
+    por_que: "Material de referência do BCB: orçamento, consumo, crédito, poupança, investimento e prevenção de riscos."
+
+  - id: bcb_gfp_orcamento
+    titulo: "Gestão de Finanças Pessoais – Orçamento Pessoal e Familiar (Caderno do Aluno)"
+    instituicao: "Banco Central do Brasil / Sescoop (cópia hospedada pelo Exército Brasileiro)"
+    ano: 2015
+    url: "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/ORAMENTO.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: fundamentos
+    foco_mulheres: false
+    por_que: "Módulo prático sobre montar e acompanhar o orçamento doméstico."
+
+  - id: bcb_gfp_consumo
+    titulo: "Gestão de Finanças Pessoais – Consumo"
+    instituicao: "Banco Central do Brasil / Sescoop (cópia hospedada pelo Exército Brasileiro)"
+    ano: 2015
+    url: "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CONSUMO.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: fundamentos
+    foco_mulheres: false
+    por_que: "Consumo consciente, decisões de compra e armadilhas comportamentais."
+
+  - id: bcb_gfp_credito
+    titulo: "Gestão de Finanças Pessoais – Crédito e Endividamento"
+    instituicao: "Banco Central do Brasil / Sescoop (cópia hospedada pelo Exército Brasileiro)"
+    ano: 2015
+    url: "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CRDITO-ENDIVIDAMENTO.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: credito_dividas
+    foco_mulheres: false
+    por_que: "Uso responsável do crédito, juros e como sair do endividamento."
+
+  - id: bcb_gfp_investimentos
+    titulo: "Gestão de Finanças Pessoais – Investimentos e Aposentadoria"
+    instituicao: "Banco Central do Brasil / Sescoop (cópia hospedada pelo Exército Brasileiro)"
+    ano: 2015
+    url: "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/INVESTIMENTOS-APOSENTADORIA.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: investimentos
+    foco_mulheres: false
+    por_que: "Poupança, reserva de emergência, tipos de investimento e planejamento da aposentadoria."
+
+  - id: bcb_gfp_relacao_dinheiro
+    titulo: "Gestão de Finanças Pessoais – Nossa Relação com o Dinheiro"
+    instituicao: "Banco Central do Brasil / Sescoop (cópia hospedada pelo Exército Brasileiro)"
+    ano: 2015
+    url: "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/RELAO-COM-DINHEIRO.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: fundamentos
+    foco_mulheres: false
+    por_que: "Aspectos comportamentais e emocionais na relação com o dinheiro."
+
+  - id: caixa_fundamentos_educacao_financeira
+    titulo: "Fundamentos de Educação Financeira (Cartilha 1)"
+    instituicao: "Caixa Econômica Federal"
+    ano: 2009
+    url: "https://www.caixa.gov.br/Downloads/educacao-financeira-cartilhas/CARTILHA1_EDUCACAO_FINANCEIRA.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: fundamentos
+    foco_mulheres: false
+    por_que: "Segunda fonte institucional sobre conceitos básicos (redundância ajuda a validar respostas)."
+
+  # ---------------- EIXO 2: Mulheres e finanças – dados e diagnóstico ----------------
+  - id: bcb_relatorio_cidadania_financeira_2025
+    titulo: "Relatório de Cidadania Financeira 2025"
+    instituicao: "Banco Central do Brasil"
+    ano: 2025
+    url: "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: true
+    por_que: "Primeira edição com recorte de crédito por gênero e raça (custo do crédito, endividamento de risco)."
+
+  - id: bcb_serie_cidadania_7_findex
+    titulo: "Série Cidadania Financeira nº 7 – Global Findex: o Brasil na comparação internacional"
+    instituicao: "Banco Central do Brasil"
+    ano: 2023
+    url: "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: false
+    por_que: "Inclusão financeira do Brasil comparada a outros países, com indicadores por sexo."
+
+  - id: ibge_estatisticas_genero_3ed
+    titulo: "Estatísticas de Gênero – Indicadores sociais das mulheres no Brasil (3ª edição, informativo)"
+    instituicao: "IBGE"
+    ano: 2024
+    url: "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102066_informativo.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: true
+    por_que: "Contexto socioeconômico: renda, trabalho de cuidado e participação econômica das mulheres."
+
+  - id: anbima_raiox9_mulheres_investem
+    titulo: "Trinta e um por cento das mulheres brasileiras já investem, aponta Raio X do Investidor Brasileiro"
+    instituicao: "ANBIMA"
+    ano: 2026
+    url: "https://www.anbima.com.br/pt_br/noticias/trinta-e-um-por-cento-das-mulheres-brasileiras-ja-investem-aponta-raio-x-do-investidor-brasileiro.htm"
+    formato: html
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: true
+    por_que: "Dados recentes sobre o comportamento de investimento das mulheres (9ª edição do Raio X)."
+
+  - id: anbima_raiox9_poupanca_mulheres
+    titulo: "Poupança perde espaço entre mulheres investidoras, mas ainda concentra 69% do público"
+    instituicao: "ANBIMA"
+    ano: 2026
+    url: "https://www.anbima.com.br/pt_br/imprensa/poupanca-perde-espaco-entre-mulheres-investidoras-mas-ainda-concentra-69-do-publico-revela-raio-x-do-investidor-brasileiro.htm"
+    formato: html
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: true
+    por_que: "Produtos usados pelas investidoras e prioridades (retorno x segurança)."
+
+  - id: anbima_raiox7_relatorio
+    titulo: "Raio X do Investidor Brasileiro – 7ª edição (relatório)"
+    instituicao: "ANBIMA / Datafolha"
+    ano: 2024
+    url: "https://www.anbima.com.br/data/files/9D/52/B3/C7/38C0091004DA0EF8EA2BA2A8/Relatorio-Raio-X-do-Investidor-7.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: investimentos
+    foco_mulheres: false
+    por_que: "Relatório completo com metodologia, perfil de quem investe e de quem não investe."
+
+  - id: sebrae_empreendedorismo_feminino_2023
+    titulo: "Relatório Técnico – Empreendedorismo Feminino (4º trimestre de 2023)"
+    instituicao: "Sebrae / Data Sebrae"
+    ano: 2024
+    url: "https://datasebrae.com.br/wp-content/uploads/2024/04/2024-04-02-relatorio_empreendedorismo_feminino_202304.pdf"
+    alternativas:
+      - "https://datasebrae.com.br/wp-content/uploads/2021/02/Empreendedorismo-Feminino-no-Brasil-2020.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: true
+    por_que: "Perfil das donas de negócio (escolaridade, formalização, renda, chefia de domicílio) com série histórica."
+
+  - id: sebrae_infografico_empreendedorismo_feminino_2024
+    titulo: "Empreendedorismo Feminino no Brasil – Infográfico (4º trimestre de 2024)"
+    instituicao: "Sebrae / Data Sebrae"
+    ano: 2025
+    url: "https://datasebrae.com.br/wp-content/uploads/2025/05/Empreendedorismo_FemininoVF2.0.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: true
+    por_que: "Dados mais recentes: setores, formalização e contribuição previdenciária das donas de negócio."
+
+  - id: sebrae_credito_empreendedoras
+    titulo: "Crédito negado: Sebrae expõe dificuldades de empreendedoras no acesso a financiamentos"
+    instituicao: "Agência Sebrae"
+    ano: 2026
+    url: "https://agenciasebrae.com.br/economia-e-politica/credito-negado-sebrae-expoe-dificuldades-de-empreendedoras-no-acesso-a-financiamentos/"
+    formato: html
+    idioma: pt
+    eixo: credito_dividas
+    foco_mulheres: true
+    por_que: "Barreiras específicas das mulheres ao crédito (garantias, juros, histórico)."
+
+  - id: worldbank_findex_2025_women
+    titulo: "More women have financial accounts, yet equal access and use remain elusive"
+    instituicao: "World Bank (Data Blog)"
+    ano: 2025
+    url: "https://blogs.worldbank.org/en/opendata/more-women-have-financial-accounts--yet-equal-access-and-use-rem"
+    formato: html
+    idioma: en
+    eixo: mulheres_dados
+    foco_mulheres: true
+    por_que: "Visão global (Findex 2025) da diferença de gênero na posse e no uso de contas."
+
+  # ---------------- EIXO 3: Educação e proteção financeira das mulheres ----------------
+  - id: bcb_relatorio_cidadania_financeira_2021
+    titulo: "Relatório de Cidadania Financeira 2021"
+    instituicao: "Banco Central do Brasil"
+    ano: 2021
+    url: "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/Relatorio_de_Cidadania_Financeira_2021.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_dados
+    foco_mulheres: false
+    por_que: "Edição anterior do RCF: permite comparar a evolução da inclusão e da educação financeira."
+
+  - id: cvm_quiz_educacao_financeira_mulheres
+    titulo: "Quiz de Finanças Sustentáveis – Educação Financeira para Mulheres"
+    instituicao: "Comissão de Valores Mobiliários (CVM)"
+    ano: 2024
+    url: "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cvm-sustentavel/quiz-de-financas-sustentaveis-educacao-financeira-para-mulheres/"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_educacao_protecao
+    foco_mulheres: true
+    por_que: "Independência financeira, violência patrimonial e proteção da mulher investidora."
+
+  - id: bcb_conceito_cidadania_financeira
+    titulo: "O conceito de cidadania financeira"
+    instituicao: "Banco Central do Brasil"
+    ano: 2018
+    url: "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Informacoes_gerais/conceito_cidadania_financeira.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_educacao_protecao
+    foco_mulheres: false
+    por_que: "Define os pilares da cidadania financeira (inclusão, educação, proteção e participação) usados pela política pública."
+
+  - id: lei_maria_da_penha
+    titulo: "Lei nº 11.340/2006 (Lei Maria da Penha) – texto consolidado"
+    instituicao: "Câmara dos Deputados – Legislação Informatizada"
+    ano: 2006
+    url: "https://static.poder360.com.br/2024/05/Lei-Maria-da-Penha.pdf"
+    alternativas:
+      - "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+      - "https://www.geledes.org.br/wp-content/uploads/2014/04/Lei-Maria-da-Penha.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_educacao_protecao
+    foco_mulheres: true
+    por_que: "Define legalmente a violência patrimonial (art. 7º, IV) e medidas de proteção patrimonial."
+
+  - id: tjsp_cartilha_rompa
+    titulo: "Cartilha Rompa – Relacionamentos abusivos e violência contra a mulher"
+    instituicao: "Tribunal de Justiça de São Paulo"
+    ano: 2023
+    url: "https://www.tjsp.jus.br/Download/Rompa/Cartilha.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_educacao_protecao
+    foco_mulheres: true
+    por_que: "Linguagem acessível sobre formas de violência, incluindo a patrimonial, e onde buscar ajuda."
+
+  - id: mpmg_cartilha_sempre_vivas
+    titulo: "Cartilha Sempre Vivas – Entenda a Lei Maria da Penha"
+    instituicao: "Ministério Público de Minas Gerais / ALMG"
+    ano: 2021
+    url: "https://www.mpmg.mp.br/data/files/98/27/D9/F2/46E5B8100ACB4BA8760849A8/cartilha-sempre-vivas-abril-2021%20_1_.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: mulheres_educacao_protecao
+    foco_mulheres: true
+    por_que: "Exemplos práticos de violência patrimonial e rede de atendimento."
+
+  # ---------------- EIXO 4: Crédito, dívidas e superendividamento ----------------
+  - id: lei_14181_superendividamento
+    titulo: "Lei nº 14.181/2021 (Lei do Superendividamento)"
+    instituicao: "Presidência da República – Planalto"
+    ano: 2021
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14181.htm"
+    alternativas:
+      - "https://www.tjsp.jus.br/Download/SecaoDireitoPrivado/GAPRI/BoletinsInformativos/LeiSuperendividamento.pdf"
+    formato: html
+    idioma: pt
+    eixo: credito_dividas
+    foco_mulheres: false
+    por_que: "Definição legal de superendividamento, mínimo existencial e repactuação de dívidas."
+
+  - id: procon_rio_cartilha_superendividamento
+    titulo: "Cartilha Superendividamento"
+    instituicao: "Procon Carioca – Prefeitura do Rio de Janeiro"
+    ano: 2026
+    url: "https://proconcarioca.prefeitura.rio/wp-content/uploads/sites/46/2026/07/CARTILHA-superendividamento.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: credito_dividas
+    foco_mulheres: false
+    por_que: "Versão didática dos direitos do consumidor superendividado."
+
+  - id: senacon_cenario_superendividamento
+    titulo: "Cenário do Superendividamento no Brasil e no Mundo (Produto 2)"
+    instituicao: "Secretaria Nacional do Consumidor (Senacon/MJSP)"
+    ano: 2021
+    url: "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor/defesadoconsumidor/Biblioteca/editais/produto_2__cenario_do_superendividamento.pdf"
+    formato: pdf
+    idioma: pt
+    eixo: credito_dividas
+    foco_mulheres: false
+    por_que: "Diagnóstico técnico do superendividamento, perfis e causas."

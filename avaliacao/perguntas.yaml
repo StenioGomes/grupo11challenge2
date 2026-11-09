@@ -1,0 +1,62 @@
+# =====================================================================
+# CONJUNTO DE AVALIAÇÃO DA RECUPERAÇÃO
+# =====================================================================
+# Para cada pergunta, listamos as fontes (ids do catálogo) que DEVERIAM
+# aparecer entre os trechos recuperados. Isso é o "gabarito" (ground truth)
+# usado por avaliar.py para calcular Hit@k, MRR, Precisão e Recall de fontes.
+#
+# IMPORTANTE: os rótulos abaixo foram definidos a partir do tema declarado
+# de cada documento. Depois da primeira ingestão, CONFIRA abrindo
+# data/processed/<id>.jsonl (ou rodando consultar.py --sem-llm) se o
+# conteúdo realmente está lá, e ajuste. Um gabarito errado gera métrica
+# errada: avaliar o avaliador faz parte do trabalho.
+# =====================================================================
+
+perguntas:
+  - pergunta: "O que é violência patrimonial?"
+    relevantes: [lei_maria_da_penha, tjsp_cartilha_rompa, mpmg_cartilha_sempre_vivas, cvm_quiz_educacao_financeira_mulheres]
+
+  - pergunta: "Por que a independência financeira é importante para mulheres em situação de violência?"
+    relevantes: [cvm_quiz_educacao_financeira_mulheres, tjsp_cartilha_rompa, mpmg_cartilha_sempre_vivas]
+
+  - pergunta: "Como o custo do crédito varia entre homens e mulheres no Brasil?"
+    relevantes: [bcb_relatorio_cidadania_financeira_2025, sebrae_credito_empreendedoras, sebrae_empreendedorismo_feminino_2023]
+
+  - pergunta: "Quais as dificuldades das empreendedoras para conseguir empréstimo?"
+    relevantes: [sebrae_credito_empreendedoras, sebrae_empreendedorismo_feminino_2023, bcb_relatorio_cidadania_financeira_2025]
+
+  - pergunta: "Como fazer um orçamento doméstico?"
+    relevantes: [bcb_gfp_orcamento, bcb_caderno_educacao_financeira, caixa_fundamentos_educacao_financeira]
+
+  - pergunta: "Para que serve uma reserva de emergência e quanto guardar?"
+    relevantes: [bcb_caderno_educacao_financeira, bcb_gfp_investimentos, caixa_fundamentos_educacao_financeira]
+
+  - pergunta: "O que é superendividamento segundo a lei?"
+    relevantes: [lei_14181_superendividamento, procon_rio_cartilha_superendividamento, senacon_cenario_superendividamento]
+
+  - pergunta: "O que é o mínimo existencial na renegociação de dívidas?"
+    relevantes: [lei_14181_superendividamento, procon_rio_cartilha_superendividamento, senacon_cenario_superendividamento]
+
+  - pergunta: "Qual a porcentagem de mulheres brasileiras que investem?"
+    relevantes: [anbima_raiox9_mulheres_investem, anbima_raiox9_poupanca_mulheres, anbima_raiox7_relatorio]
+
+  - pergunta: "Quais produtos de investimento as mulheres mais usam?"
+    relevantes: [anbima_raiox9_poupanca_mulheres, anbima_raiox9_mulheres_investem, anbima_raiox7_relatorio]
+
+  - pergunta: "Qual é a diferença entre homens e mulheres na posse de contas bancárias no mundo?"
+    relevantes: [worldbank_findex_2025_women, bcb_serie_cidadania_7_findex]
+
+  - pergunta: "Quantas mulheres são donas de negócio no Brasil e qual o perfil delas?"
+    relevantes: [sebrae_empreendedorismo_feminino_2023, sebrae_infografico_empreendedorismo_feminino_2024]
+
+  - pergunta: "O que é cidadania financeira e quais são seus pilares?"
+    relevantes: [bcb_conceito_cidadania_financeira, bcb_relatorio_cidadania_financeira_2021, bcb_relatorio_cidadania_financeira_2025]
+
+  - pergunta: "Como as mulheres dividem o tempo entre trabalho remunerado e afazeres domésticos e cuidados?"
+    relevantes: [ibge_estatisticas_genero_3ed]
+
+  - pergunta: "Como se preparar financeiramente para a aposentadoria?"
+    relevantes: [bcb_gfp_investimentos, bcb_caderno_educacao_financeira]
+
+  - pergunta: "Como evitar compras por impulso?"
+    relevantes: [bcb_gfp_consumo, bcb_caderno_educacao_financeira, bcb_gfp_relacao_dinheiro]

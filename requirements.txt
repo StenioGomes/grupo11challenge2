@@ -1,15 +1,22 @@
+# Núcleo do RAG
+langchain-core>=1.0
+langchain-text-splitters>=1.0
+langchain-chroma>=1.0
+langchain-ollama>=1.0
+chromadb>=1.0
 
-langchain
-langchain-community
-langchain-core
-langchain-chroma
-langchain-text-splitters
-langchain-ollama
+# Coleta e leitura de documentos
+requests>=2.31
+beautifulsoup4>=4.12
+pypdf>=5.0
 
-pypdf
-python-dotenv
+# Utilitários
+python-dotenv>=1.0
+pyyaml>=6.0
+
+# Notebook didático (opcional)
 jupyter
 ipykernel
 
-chromadb
-chromadb[cli]
+# Só para o teste de fumaça gerar um PDF sintético (opcional)
+reportlab

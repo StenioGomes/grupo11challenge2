@@ -1,0 +1,272 @@
+{
+  "bcb_caderno_educacao_financeira": {
+    "id": "bcb_caderno_educacao_financeira",
+    "url_catalogo": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf",
+    "url_usada": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf",
+    "url_final": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf",
+    "formato": "pdf",
+    "bytes": 8160797,
+    "sha256": "e42aa64c16d7e35ccaba4c73b28f604873e442fa1b093f13cfc2ec056db90cc3",
+    "baixado_em": "2026-11-09T09:37:30",
+    "avisos": [],
+    "status": "ok"
+  },
+  "bcb_gfp_orcamento": {
+    "id": "bcb_gfp_orcamento",
+    "url_catalogo": "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/ORAMENTO.pdf",
+    "status": "erro: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/ORAMENTO.pdf: 404 Client Error: Not Found for url: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/ORAMENTO.pdf"
+  },
+  "bcb_gfp_consumo": {
+    "id": "bcb_gfp_consumo",
+    "url_catalogo": "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CONSUMO.pdf",
+    "status": "erro: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CONSUMO.pdf: 404 Client Error: Not Found for url: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CONSUMO.pdf"
+  },
+  "bcb_gfp_credito": {
+    "id": "bcb_gfp_credito",
+    "url_catalogo": "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CRDITO-ENDIVIDAMENTO.pdf",
+    "status": "erro: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CRDITO-ENDIVIDAMENTO.pdf: 404 Client Error: Not Found for url: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/CRDITO-ENDIVIDAMENTO.pdf"
+  },
+  "bcb_gfp_investimentos": {
+    "id": "bcb_gfp_investimentos",
+    "url_catalogo": "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/INVESTIMENTOS-APOSENTADORIA.pdf",
+    "status": "erro: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/INVESTIMENTOS-APOSENTADORIA.pdf: 404 Client Error: Not Found for url: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/INVESTIMENTOS-APOSENTADORIA.pdf"
+  },
+  "bcb_gfp_relacao_dinheiro": {
+    "id": "bcb_gfp_relacao_dinheiro",
+    "url_catalogo": "https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/RELAO-COM-DINHEIRO.pdf",
+    "status": "erro: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/RELAO-COM-DINHEIRO.pdf: 404 Client Error: Not Found for url: https://www.5rm.eb.mil.br/images/5rm/esc_pes/sas/CaPRA/modulo3/RELAO-COM-DINHEIRO.pdf"
+  },
+  "caixa_fundamentos_educacao_financeira": {
+    "id": "caixa_fundamentos_educacao_financeira",
+    "url_catalogo": "https://www.caixa.gov.br/Downloads/educacao-financeira-cartilhas/CARTILHA1_EDUCACAO_FINANCEIRA.pdf",
+    "url_usada": "https://www.caixa.gov.br/Downloads/educacao-financeira-cartilhas/CARTILHA1_EDUCACAO_FINANCEIRA.pdf",
+    "url_final": "https://www.caixa.gov.br/Downloads/educacao-financeira-cartilhas/CARTILHA1_EDUCACAO_FINANCEIRA.pdf",
+    "formato": "pdf",
+    "bytes": 10479924,
+    "sha256": "05d2234970872f7d9706504b8b5bdb406723b8a890621e83452bf030996a2b49",
+    "baixado_em": "2026-11-09T09:37:54",
+    "avisos": [],
+    "status": "ok"
+  },
+  "bcb_relatorio_cidadania_financeira_2025": {
+    "id": "bcb_relatorio_cidadania_financeira_2025",
+    "url_catalogo": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "url_usada": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "url_final": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "formato": "pdf",
+    "bytes": 7889119,
+    "sha256": "833dc272807dd711ae6947a0131f61a0446947e9861d0eb21ce6af278f7f2624",
+    "baixado_em": "2026-11-09T09:37:55",
+    "avisos": [],
+    "status": "ok"
+  },
+  "bcb_serie_cidadania_7_findex": {
+    "id": "bcb_serie_cidadania_7_findex",
+    "url_catalogo": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "url_usada": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "url_final": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "formato": "pdf",
+    "bytes": 1018498,
+    "sha256": "f74ecf97d265baffb28ac70707a21953e3015c486dcfe7a3d5ffd9a82bf7f2ed",
+    "baixado_em": "2026-11-09T09:37:57",
+    "avisos": [],
+    "status": "ok"
+  },
+  "ibge_estatisticas_genero_3ed": {
+    "id": "ibge_estatisticas_genero_3ed",
+    "url_catalogo": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102066_informativo.pdf",
+    "url_usada": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102066_informativo.pdf",
+    "url_final": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102066_informativo.pdf",
+    "formato": "pdf",
+    "bytes": 1204171,
+    "sha256": "08553f7f1d8e28d5bdc15bfb9521a4e375f01ef3b86b2aaa728708cfb0665c88",
+    "baixado_em": "2026-11-09T09:37:58",
+    "avisos": [],
+    "status": "ok"
+  },
+  "anbima_raiox9_mulheres_investem": {
+    "id": "anbima_raiox9_mulheres_investem",
+    "url_catalogo": "https://www.anbima.com.br/pt_br/noticias/trinta-e-um-por-cento-das-mulheres-brasileiras-ja-investem-aponta-raio-x-do-investidor-brasileiro.htm",
+    "url_usada": "https://www.anbima.com.br/pt_br/noticias/trinta-e-um-por-cento-das-mulheres-brasileiras-ja-investem-aponta-raio-x-do-investidor-brasileiro.htm",
+    "url_final": "https://www.anbima.com.br/pt_br/noticias/trinta-e-um-por-cento-das-mulheres-brasileiras-ja-investem-aponta-raio-x-do-investidor-brasileiro.htm",
+    "formato": "html",
+    "bytes": 207938,
+    "sha256": "e9076577434b902c2843b3d4b8ec9c4dde7496c0bb48eac4f7c5f3f8691dc1ad",
+    "baixado_em": "2026-11-09T09:38:01",
+    "avisos": [],
+    "status": "ok"
+  },
+  "anbima_raiox9_poupanca_mulheres": {
+    "id": "anbima_raiox9_poupanca_mulheres",
+    "url_catalogo": "https://www.anbima.com.br/pt_br/imprensa/poupanca-perde-espaco-entre-mulheres-investidoras-mas-ainda-concentra-69-do-publico-revela-raio-x-do-investidor-brasileiro.htm",
+    "url_usada": "https://www.anbima.com.br/pt_br/imprensa/poupanca-perde-espaco-entre-mulheres-investidoras-mas-ainda-concentra-69-do-publico-revela-raio-x-do-investidor-brasileiro.htm",
+    "url_final": "https://www.anbima.com.br/pt_br/imprensa/poupanca-perde-espaco-entre-mulheres-investidoras-mas-ainda-concentra-69-do-publico-revela-raio-x-do-investidor-brasileiro.htm",
+    "formato": "html",
+    "bytes": 207669,
+    "sha256": "3d0826d34994ab26872964597ae39ae8a4711875eb203aa3143fb3d16d47024c",
+    "baixado_em": "2026-11-09T09:38:02",
+    "avisos": [],
+    "status": "ok"
+  },
+  "anbima_raiox7_relatorio": {
+    "id": "anbima_raiox7_relatorio",
+    "url_catalogo": "https://www.anbima.com.br/data/files/9D/52/B3/C7/38C0091004DA0EF8EA2BA2A8/Relatorio-Raio-X-do-Investidor-7.pdf",
+    "url_usada": "https://www.anbima.com.br/data/files/9D/52/B3/C7/38C0091004DA0EF8EA2BA2A8/Relatorio-Raio-X-do-Investidor-7.pdf",
+    "url_final": "https://www.anbima.com.br/data/files/9D/52/B3/C7/38C0091004DA0EF8EA2BA2A8/Relatorio-Raio-X-do-Investidor-7.pdf",
+    "formato": "pdf",
+    "bytes": 3134775,
+    "sha256": "1302e921ece66d2d40ce6be9f4c0c3387e814cc7114287c6d2c07992533efa54",
+    "baixado_em": "2026-11-09T09:38:03",
+    "avisos": [],
+    "status": "ok"
+  },
+  "sebrae_empreendedorismo_feminino_2023": {
+    "id": "sebrae_empreendedorismo_feminino_2023",
+    "url_catalogo": "https://datasebrae.com.br/wp-content/uploads/2024/04/2024-04-02-relatorio_empreendedorismo_feminino_202304.pdf",
+    "url_usada": "https://datasebrae.com.br/wp-content/uploads/2024/04/2024-04-02-relatorio_empreendedorismo_feminino_202304.pdf",
+    "url_final": "https://datasebrae.com.br/wp-content/uploads/2024/04/2024-04-02-relatorio_empreendedorismo_feminino_202304.pdf",
+    "formato": "pdf",
+    "bytes": 6388774,
+    "sha256": "da8726ee8be13050967544afc7fb575f77750ab80b51efabe8bae4cd7e3b4d3b",
+    "baixado_em": "2026-11-09T09:38:08",
+    "avisos": [],
+    "status": "ok"
+  },
+  "sebrae_infografico_empreendedorismo_feminino_2024": {
+    "id": "sebrae_infografico_empreendedorismo_feminino_2024",
+    "url_catalogo": "https://datasebrae.com.br/wp-content/uploads/2025/05/Empreendedorismo_FemininoVF2.0.pdf",
+    "url_usada": "https://datasebrae.com.br/wp-content/uploads/2025/05/Empreendedorismo_FemininoVF2.0.pdf",
+    "url_final": "https://datasebrae.com.br/wp-content/uploads/2025/05/Empreendedorismo_FemininoVF2.0.pdf",
+    "formato": "pdf",
+    "bytes": 18172997,
+    "sha256": "d8442e17b249f82ae0285cd06bacbf6e7aaeb489064297eee964e213d3fe1c82",
+    "baixado_em": "2026-11-09T09:38:13",
+    "avisos": [],
+    "status": "ok"
+  },
+  "sebrae_credito_empreendedoras": {
+    "id": "sebrae_credito_empreendedoras",
+    "url_catalogo": "https://agenciasebrae.com.br/economia-e-politica/credito-negado-sebrae-expoe-dificuldades-de-empreendedoras-no-acesso-a-financiamentos/",
+    "url_usada": "https://agenciasebrae.com.br/economia-e-politica/credito-negado-sebrae-expoe-dificuldades-de-empreendedoras-no-acesso-a-financiamentos/",
+    "url_final": "https://agenciasebrae.com.br/economia-e-politica/credito-negado-sebrae-expoe-dificuldades-de-empreendedoras-no-acesso-a-financiamentos/",
+    "formato": "html",
+    "bytes": 96955,
+    "sha256": "763462650d86d12c306ba97b25c68666c924e9def25ea647d16d8a1dbdbbe74c",
+    "baixado_em": "2026-11-09T09:38:14",
+    "avisos": [],
+    "status": "ok"
+  },
+  "worldbank_findex_2025_women": {
+    "id": "worldbank_findex_2025_women",
+    "url_catalogo": "https://blogs.worldbank.org/en/opendata/more-women-have-financial-accounts--yet-equal-access-and-use-rem",
+    "url_usada": "https://blogs.worldbank.org/en/opendata/more-women-have-financial-accounts--yet-equal-access-and-use-rem",
+    "url_final": "https://blogs.worldbank.org/en/opendata/more-women-have-financial-accounts--yet-equal-access-and-use-rem",
+    "formato": "html",
+    "bytes": 75221,
+    "sha256": "e067aea421041b16ae5b183ffa4d63a11e0221e6b7b290e6b8e9346ae8ffdf00",
+    "baixado_em": "2026-11-09T09:38:14",
+    "avisos": [],
+    "status": "ok"
+  },
+  "bcb_relatorio_cidadania_financeira_2021": {
+    "id": "bcb_relatorio_cidadania_financeira_2021",
+    "url_catalogo": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/Relatorio_de_Cidadania_Financeira_2021.pdf",
+    "url_usada": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/Relatorio_de_Cidadania_Financeira_2021.pdf",
+    "url_final": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/Relatorio_de_Cidadania_Financeira_2021.pdf",
+    "formato": "pdf",
+    "bytes": 7802115,
+    "sha256": "865a62c9997f35d40ed2ffa420788f0a219fd6d4a6c54ad8cbc077bc0b79295f",
+    "baixado_em": "2026-11-09T09:38:21",
+    "avisos": [],
+    "status": "ok"
+  },
+  "cvm_quiz_educacao_financeira_mulheres": {
+    "id": "cvm_quiz_educacao_financeira_mulheres",
+    "url_catalogo": "https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cvm-sustentavel/quiz-de-financas-sustentaveis-educacao-financeira-para-mulheres/",
+    "status": "erro: https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cvm-sustentavel/quiz-de-financas-sustentaveis-educacao-financeira-para-mulheres/: esperava PDF, recebeu uma página HTML sem link para o PDF"
+  },
+  "bcb_conceito_cidadania_financeira": {
+    "id": "bcb_conceito_cidadania_financeira",
+    "url_catalogo": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Informacoes_gerais/conceito_cidadania_financeira.pdf",
+    "url_usada": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Informacoes_gerais/conceito_cidadania_financeira.pdf",
+    "url_final": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Informacoes_gerais/conceito_cidadania_financeira.pdf",
+    "formato": "pdf",
+    "bytes": 1332699,
+    "sha256": "ae803629cf8562776ce7a4479ceca1c3e8c5cf351645ec7cd4c42a54178dca7b",
+    "baixado_em": "2026-11-09T09:38:27",
+    "avisos": [],
+    "status": "ok"
+  },
+  "lei_maria_da_penha": {
+    "id": "lei_maria_da_penha",
+    "url_catalogo": "https://static.poder360.com.br/2024/05/Lei-Maria-da-Penha.pdf",
+    "url_usada": "https://static.poder360.com.br/2024/05/Lei-Maria-da-Penha.pdf",
+    "url_final": "https://static.poder360.com.br/2024/05/Lei-Maria-da-Penha.pdf",
+    "formato": "pdf",
+    "bytes": 140088,
+    "sha256": "f2cdbaff88f15d9238fb8b47f0cc827c71922f697ab5d9b78f60173e04c144b6",
+    "baixado_em": "2026-11-09T09:38:27",
+    "avisos": [],
+    "status": "ok"
+  },
+  "tjsp_cartilha_rompa": {
+    "id": "tjsp_cartilha_rompa",
+    "url_catalogo": "https://www.tjsp.jus.br/Download/Rompa/Cartilha.pdf",
+    "url_usada": "https://www.tjsp.jus.br/Download/Rompa/Cartilha.pdf",
+    "url_final": "https://www.tjsp.jus.br/Download/Rompa/Cartilha.pdf",
+    "formato": "pdf",
+    "bytes": 1124534,
+    "sha256": "6ce4046afb79397efdbe78e957f859f163f620ea6abdf16a8d484ef648fde8a5",
+    "baixado_em": "2026-11-09T09:38:28",
+    "avisos": [],
+    "status": "ok"
+  },
+  "mpmg_cartilha_sempre_vivas": {
+    "id": "mpmg_cartilha_sempre_vivas",
+    "url_catalogo": "https://www.mpmg.mp.br/data/files/98/27/D9/F2/46E5B8100ACB4BA8760849A8/cartilha-sempre-vivas-abril-2021%20_1_.pdf",
+    "url_usada": "https://www.mpmg.mp.br/data/files/98/27/D9/F2/46E5B8100ACB4BA8760849A8/cartilha-sempre-vivas-abril-2021%20_1_.pdf",
+    "url_final": "https://www.mpmg.mp.br/data/files/98/27/D9/F2/46E5B8100ACB4BA8760849A8/cartilha-sempre-vivas-abril-2021%20_1_.pdf",
+    "formato": "pdf",
+    "bytes": 2345684,
+    "sha256": "82b9775a471c33f2247a927ee7cf0af77dd9cc72e179b9d7ed719b7ba918afc9",
+    "baixado_em": "2026-11-09T09:38:33",
+    "avisos": [],
+    "status": "ok"
+  },
+  "lei_14181_superendividamento": {
+    "id": "lei_14181_superendividamento",
+    "url_catalogo": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14181.htm",
+    "url_usada": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14181.htm",
+    "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14181.htm",
+    "formato": "html",
+    "bytes": 52362,
+    "sha256": "931686a23f9b32b2d0a88044c63e346575e1d09561e1b0b366dbb7a8b9ede208",
+    "baixado_em": "2026-11-09T09:38:34",
+    "avisos": [],
+    "status": "ok"
+  },
+  "procon_rio_cartilha_superendividamento": {
+    "id": "procon_rio_cartilha_superendividamento",
+    "url_catalogo": "https://proconcarioca.prefeitura.rio/wp-content/uploads/sites/46/2026/07/CARTILHA-superendividamento.pdf",
+    "url_usada": "https://proconcarioca.prefeitura.rio/wp-content/uploads/sites/46/2026/07/CARTILHA-superendividamento.pdf",
+    "url_final": "https://proconcarioca.prefeitura.rio/wp-content/uploads/sites/46/2026/07/CARTILHA-superendividamento.pdf",
+    "formato": "pdf",
+    "bytes": 15473091,
+    "sha256": "f77eb2e3738cfdcca8bc8abdf26fc223f3f4edf97665ad20234114aaebef6a2b",
+    "baixado_em": "2026-11-09T09:38:40",
+    "avisos": [],
+    "status": "ok"
+  },
+  "senacon_cenario_superendividamento": {
+    "id": "senacon_cenario_superendividamento",
+    "url_catalogo": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor/defesadoconsumidor/Biblioteca/editais/produto_2__cenario_do_superendividamento.pdf",
+    "url_usada": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor/defesadoconsumidor/Biblioteca/editais/produto_2__cenario_do_superendividamento.pdf",
+    "url_final": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor/defesadoconsumidor/Biblioteca/editais/produto_2__cenario_do_superendividamento.pdf",
+    "formato": "pdf",
+    "bytes": 2302417,
+    "sha256": "1879614965497633182fd6b75fd7d1fc31d397f327f8555413253b50bd4cba55",
+    "baixado_em": "2026-11-09T09:38:42",
+    "avisos": [],
+    "status": "ok"
+  }
+}
