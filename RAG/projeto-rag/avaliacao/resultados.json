@@ -1,0 +1,1705 @@
+{
+  "resumo": {
+    "data": "2026-11-13T11:02:43",
+    "modelo": "llama3.2",
+    "top_k": 4,
+    "limiar_distancia": 0.5,
+    "total": 50,
+    "respondidas": 45,
+    "recusadas": 5,
+    "tempo_total_s": 215.6
+  },
+  "resultados": [
+    {
+      "id": 1,
+      "pergunta": "Qual é a diferença conceitual entre endividamento ativo e endividamento passivo?",
+      "resposta": "De acordo com Tolotti (2007 p. 31), o endividamento passivo ocorre quando há um aumento de dívidas por consequência de alguma situação alheia à vontade do indivíduo, como doença, morte, acidente, desemprego ou separação. Já o endividamento ativo se caracteriza por um montante de dívidas advindas de escolhas equivocadas feitas pelo próprio indivíduo.\n\nPortanto, a diferença conceitual entre os dois tipos de endividamento é que o passivo é causado por circunstâncias imprevistas e esporádicas, enquanto o ativo é resultado de escolhas erradas ou decisões financeiras inadequadas.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.282,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.282,
+          "texto": "de endividamento pessoal o ativo e o passivo, segundo Tolotti (2007 p. 31) “O endividamento passivo ocorre quando há um aumento de dívidas por consequência de alguma situação alheia à vontade do indivíduo: doença, morte, acidente, desemprego ou separação. São circunstâncias imprevistas e esporádicas. O endividamento ativo se caracteriza por um montante de dívidas advindas de escolhas equivocadas,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.359,
+          "texto": "endividamento. ( ) Saber detalhadamente as informações importantes de todas as dívidas – o valor, o prazo para pagamento e a taxa de juros que se está pagando – é uma ação recomendável para quem está endividado. ( ) A taxa de juros não é tão importante, pois é diluída nas mensalidades. ( ) Quanto maior o prazo para pagamento de um empréstimo, melhor, pois o valor do pagamento mensal fica menor,"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.365,
+          "texto": "possuírem dívidas, em sua maioria elas estão em dia, o que significa que os colaboradores estão endividados, mas não inadimplentes. Observando os dados de ambos os grupos, notam-se altas frequências quanto à tomada de financiamentos para bens móveis e imóveis, utilização de crediário, cartão de crédito, cheque especial e empréstimos pessoais. É importante salientar que o endividamento é"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.369,
+          "texto": "NO TEMPO Para estudar o poder dos juros no tempo, é preciso, primeiramente, conhecer a diferença entre juros simples e juros compostos. Juros simples são aqueles pagos somente sobre o capital principal, ou seja, o valor inicial. São o mesmo que juros não capitalizados. Exemplo: ao tomarmos emprestados R$1 mil, por 6 meses, com juros simples de 5% a.m. (ao mês), ao final do período, a nossa dívida"
+        }
+      ],
+      "tempo_s": 4.5
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual é o impacto estimado na redução de custos quando o indivíduo passa a anotar seus gastos mensais?",
+      "resposta": "Não encontrei essa informação nos documentos.",
+      "recusou": true,
+      "fontes": [],
+      "melhor_distancia": 0.298,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.298,
+          "texto": "sempre que acharmos que conseguimos pagar. 6) O descontrole nos gastos pode ocorrer por uma série de fatores. Assinale falso (F) ou verdadeiro (V) para os itens que mostram variáveis que podem gerar descontrole nos gastos de uma pessoa. ( ) Falta de planejamento. ( ) Perda de emprego e/ou renda. ( ) Descontrole emocional, utilizando o consumo como fuga, comprando tudo o que vê, sem considerar a"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.305,
+          "texto": "casos o indivíduo consiga cobrir os gastos inesperados. No entanto gastar mais do que se ganha é um grave erro, que pode levar ao endividamento e a problemas financeiros, recomenda-se fazer um levantamento dos principais gastos da família e dividi-los em grupos como por exemplo: moradia, alimentação, educação, transporte, saúde, vestuário e lazer, sempre criando grupos de acordo com sua"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.308,
+          "texto": "base para prever as receitas e as despesas futuras. Veja algumas sugestões para auxiliá-lo(a) nesta etapa. Diferencie as receitas e despesas fixas das variáveis Receitas fixas Como o próprio nome diz, são receitas que não variam ou variam muito pouco, como o valor do salário, da aposentadoria ou de rendimentos de aluguel. Receitas variáveis São aquelas cujos valores variam de um mês para o outro,"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.309,
+          "texto": "lazer, etc. Faça o mesmo para as receitas. Organize essas informações. Compute o resultado do mês e o acumulado do ano. IMPORTANTE IMPORTANTE Lembre-se de registrar também as despesas que não são mensais, como impostos, seguros, matrículas de cursos e outras atividades e despesas sazonais. Contabilize também as rendas extras anuais, como o 13º salário, férias. Não se esqueça de registrar as"
+        }
+      ],
+      "tempo_s": 0.4
+    },
+    {
+      "id": 3,
+      "pergunta": "Quanto da renda mensal a Comissão de Valores Mobiliários (CVM) recomenda destinar a reservas de emergência ou projetos futuros?",
+      "resposta": "Não encontrei essa informação nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "GUIA planejamento financeiro.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.293,
+      "recuperados": [
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.293,
+          "texto": "resgatados com facilidade, em caso de necessidade. Programe-se para recompor a reserva para emergências após utilizá-la. Nesta etapa estimamos o montante de recursos necessários para cobrir nosso custo de vida por determinado período, caso surjam emergências. A reserva para emergências serve como um “colchão” para nos proteger financeiramente diante de situações inesperadas. para pensar para"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.309,
+          "texto": "CDBs, RDBs, RDCs, LCIs e LCAs, entre outros. Em junho/2025, a proteção é válida até o limite de R$250 mil por CPF por instituição. SUMÁRIO 65 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 5 Você tem ainda a possibilidade de empregar suas economias em um investimento não financeiro. Em vez de confiar seu dinheiro a banco, cooperativa, banco digital, fintech, corretora, você pode optar por investir em"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.312,
+          "texto": "tem sua conta de poupança vier a falir, uma parte substantiva do seu patrimônio está protegida pelo FGC ou pelo FGCoop (que também protegem outros investimentos financeiros, tais como CDB, RDB, RDC, LCI, LCA). SUMÁRIO 60 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 5 Nossa recomendação é que a poupança seja formada logo quando entra a receita do mês, utilizando a seguinte lógica: feito o planejamento"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.312,
+          "texto": "FINANCEIRO. O OBJETIVO DESTE PASSO É NOS GUIAR PARA PROGRAMAR A COMPOSIÇÃO DESSA RESERVA. FAÇA AGORA FAÇA AGORA Oriente-se pelo seu fluxo de caixa atual e calcule o montante de recursos necessários para cobrir o seu custo de vida por um período de 6 a 12 meses. Some a isso os recursos necessários para cobrir despesas contratadas, como empréstimos e financiamentos, durante esse período. Inclua"
+        }
+      ],
+      "tempo_s": 0.5
+    },
+    {
+      "id": 4,
+      "pergunta": "Quais são os 4 pilares da educação financeira?",
+      "resposta": "Segundo o documento [afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf], os 4 pilares da educação financeira são:\n\n1. Controle seu Orçamento;\n2. Conheça as suas dívidas;\n3. Realize seus sonhos; e\n4. Aprenda a investir.\n\nEssa informação é citada de acordo com Braunstein e Welch (2002).",
+      "recusou": false,
+      "fontes": [
+        "FINANÇAS PESSOAIS.pdf",
+        "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.159,
+      "recuperados": [
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.159,
+          "texto": "conscientemente” são cursos simples de fácil entendimento que abre os olhos sobre a educação financeira. Nesses cursos se ensina que a educação financeira tem 4 pilares ou atitudes que são: Controle seu Orçamento; Conheça as suas dívidas; Realize seus sonhos; Aprenda a investir. Para quem não acreditava um dos pilares da educação financeira é realizar seus sonhos Segundo Braunstein e Welch (2002)"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.192,
+          "texto": "são necessários, como demonstrado a seguir. 7 CADERNO DE EDUCAÇÃO FINANCEIRA A educação financeira é o meio de promover comportamentos que contribuem para melhorar o exercício da cidadania financeira e o bem-estar financeiro das pessoas. Fonte: G20 Policy Note on Financial Well-Being, adaptado A educação financeira é também um instrumento para promover o desenvolvimento econômico. Afinal, a"
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.208,
+          "texto": "Vejamos agora o que significa educação financeira, Segundo Gallery et al. (2011, p.288), educação financeira é \"a capacidade de fazer julgamentos inteligentes e decisões eficazes em relação ao uso e gestão do dinheiro”. Já segundo a Organização de Cooperação e Desenvolvimento Econômico – OCDE (2005) educação financeira pode ser definida como: [...] o processo mediante o qual os indivíduos e as"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.227,
+          "texto": "et al. (2017), a educação financeira pode ser definida como a capacidade de realizar um planejamento financeiro baseado em leituras e interpretação de números, sendo que esse planejamento poderá contribuir para o equilíbrio das finanças pessoais e tornar as pessoas mais conscientes quanto ao uso do seu dinheiro. Saber administrar a vida financeira pessoal, principalmente no cenário atual de"
+        }
+      ],
+      "tempo_s": 2.5
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é a Estratégia Nacional de Educação Financeira (ENEF) e por que ela foi instituída pelo governo brasileiro?",
+      "resposta": "A Estratégia Nacional de Educação Financeira (Enef) é uma mobilização multissetorial em torno da promoção de ações de educação financeira no Brasil. Ela foi instituída como política de financeiro pelo Governo Federal, através do Decreto 7.397/2010, com o intuito de promover ações para melhorar o acesso à educação financeira pessoal no país.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.143,
+      "recuperados": [
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.143,
+          "texto": "Universidade Católica de São Paulo o intuito de promover ações para melhorar o acesso à educação financeira pessoal no país, a estratégia é denominada Estratégia Nacional de Educação Financeira – ENEF criada através do decreto 7.397/2010 e se trata de: [...] uma mobilização multissetorial em torno da promoção de ações de educação financeira no Brasil. A estratégia foi instituída como política de"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.226,
+          "texto": "financeiro. Como se pode perceber, a educação financeira da população é muito importante para toda a sociedade. Por esse motivo, o Governo Federal, por meio do Decreto 7.397, de 22 de dezembro de 2010, instituiu a Estratégia Nacional de Educação Financeira (Enef), sendo posteriormente atualizada pelo Decreto 10.393, de 9 de junho de 2020. Alinhada a essa estratégia, o BC reestruturou iniciativas,"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.269,
+          "texto": "nas decisões econômicas dos indivíduos. Paraná, UEP, p. 15, 2013. BRASIL. Conceito de Educação Financeira no Brasil. Disponível em: <https://www.vidaedinheiro.gov.br/es/educacao-financeira-no-brasil/>. Acesso em 23 de agosto de 2021 as 16:14. CERBASI, G. Como organizar sua vida financeira. Rio de Janeiro: Editora Sextante, 2015. CERBASI, Gustavo. Dinheiro: os segredos de quem têm. São Paulo."
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.269,
+          "texto": "Com vista nisso o SPC Brasil, instituiu uma cartilha com uma pesquisa feita em 2015 intitulada “PESQUISA EDUCAÇÃO FINANCEIRA Orçamento Pessoal e Conhecimentos Financeiros” onde apresentou diversos dados de pesquisas sobre os conhecimentos da educação financeira no Brasil, nessa cartilha foi apresentada que 37% dos brasileiros reconhecem que sua vida financeira não é organizada. E ainda quando"
+        }
+      ],
+      "tempo_s": 2.3
+    },
+    {
+      "id": 6,
+      "pergunta": "De que forma o orçamento pessoal ou familiar atua no planejamento financeiro?",
+      "resposta": "De acordo com a Cartilha de Planejamento Financeiro Familiar da Caixa Econômica Federal (2009), o orçamento pessoal ou familiar atua no planejamento financeiro discriminando os valores referentes às receitas e despesas previstas para determinado período. Isso permite fazer simulações e acompanhamento das contas da casa, tornando-se um dos mais importantes instrumentos de economia doméstica. Além disso, o registro das receitas e despesas previstas pela família ajuda a organizar os gastos e a planejar as ações futuras.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "FLUXODECAIXA.pdf",
+        "GUIA planejamento financeiro.pdf"
+      ],
+      "melhor_distancia": 0.158,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.158,
+          "texto": "com a cartilha de planejamento financeiro familiar da Caixa Econômica Federal (2009), Orçamento é uma forma de planejamento no qual se discriminam os valores referentes a receitas e despesas previstas para determinado período. Serve para fazer simulações e acompanhamento das contas da casa. É um dos mais importantes instrumentos de economia doméstica. A Cartilha de planejamento financeiro familiar"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.163,
+          "texto": "apenas no cartão e os outros 3% não sabem. Na esfera familiar a organização dos gastos consiste no registro das receitas e despesas previstas pela família, tendo que ser organizado de forma que todos os tipos de gastos e aquisições financeiras do período sejam abrangidos para que se possa planejar as ações futuras (PEIXE; LEHNHARD; HARRES, 2000). 33 Gráfico 10 – Planilha de orçamento"
+        },
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.17,
+          "texto": "Afinal, se todos os meses o planejamento financeiro estoura, provavelmente você deve revisar a sua meta (ou gastar menos). O Planejamento Financeiro Pessoal e Familiar tem como objetivo auxiliar a criar uma estratégia precisa para acumulação de bens e valores que irão formar o patrimônio de uma pessoa ou de uma família ajudando-as a arquitetar um Projeto de Vida para a conquista de etapas"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.181,
+          "texto": "desnecessários. O pagamen­ to de juros é uma despesa a mais, que acaba dificultando que as famílias sigam o orçamen­ to planejado. Oriente-se e informe-se sobre as opções de investimento para cada tipo de objetivo e reser­ va. Busque aconselhamento, caso necessário. o que esperar o que esperar Ao final deste passo teremos o produto final do planejamento financeiro: o orçamento do­ méstico. Nesse"
+        }
+      ],
+      "tempo_s": 3.2
+    },
+    {
+      "id": 7,
+      "pergunta": "Quais são as etapas práticas recomendadas para calcular o patrimônio líquido, estruturar um fluxo de caixa equilibrado e formar uma reserva de emergência familiar?",
+      "resposta": "Não encontrei essa informação nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "GUIA planejamento financeiro.pdf"
+      ],
+      "melhor_distancia": 0.306,
+      "recuperados": [
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.306,
+          "texto": "o produto final do planejamento financeiro: o orçamento do­ méstico. Nesse documento estarão as estimativas de receita para os próximos anos e a forma como pretendemos utilizá-la. Se tudo foi feito conforme os passos anteriores, este documento possibilitará à família per­ seguir seus objetivos, sem deixar de lado as emergências e riscos a que estamos expostos, e nem os planos para a aposentadoria."
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.316,
+          "texto": "que ocorre mensalmente, dando importância a todos os períodos durante o ano. Os autores ainda sugerem que a planilha do orçamento familiar possua cinco colunas. Na primeira, colocam-se as receitas, despesas e investimentos; na segunda, os valores orçados; e na terceira, os valores realmente realizados. A quarta coluna servirá para comparar em percentual a variação dos valores orçados com os"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.32,
+          "texto": "FINANCEIRO. O OBJETIVO DESTE PASSO É NOS GUIAR PARA PROGRAMAR A COMPOSIÇÃO DESSA RESERVA. FAÇA AGORA FAÇA AGORA Oriente-se pelo seu fluxo de caixa atual e calcule o montante de recursos necessários para cobrir o seu custo de vida por um período de 6 a 12 meses. Some a isso os recursos necessários para cobrir despesas contratadas, como empréstimos e financiamentos, durante esse período. Inclua"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.32,
+          "texto": "e gastos, colocar as anotações em uma planilha ajuda a ter uma visão mais ampla das receitas, despesas e gastos avulsos colaborando assim na melhor organização do orçamento familiar. 2.3 ENDIVIDAMENTO FAMILIAR De acordo com Marques e Frade (2003, p. 3) “entende-se por endividamento o saldo devedor de um agregado familiar”. Embora empréstimos, financiamento entre outros créditos particulares sejam"
+        }
+      ],
+      "tempo_s": 0.5
+    },
+    {
+      "id": 8,
+      "pergunta": "De que maneira a contabilidade mental e a facilidade de acesso ao crédito influenciam o comportamento de consumo e a propensão ao endividamento de trabalhadores?",
+      "resposta": "De acordo com os documentos fornecidos, a contabilidade mental e a facilidade de acesso ao crédito podem influenciar o comportamento de consumo e a propensão ao endividamento de trabalhadores da seguinte maneira:\n\nA contabilidade mental pode contribuir para o endividamento ao levar indivíduos a associar felicidade e status social ao ato de comprar bens, criando uma cultura do consumo. Isso pode ocorrer quando as pessoas se sentem pressionadas a manter um padrão de vida mais alto do que o que elas podem pagar, levando-as a usar crédito para financiar suas despesas.\n\nAlém disso, a facilidade de acesso ao crédito pode aumentar a propensão ao endividamento. Quando os indivíduos têm acesso fácil e rápido ao crédito, eles podem se sentir mais confortáveis em usar esse recurso para financiar suas compras, sem considerar as consequências financeiras a longo prazo.\n\nEm resumo, a contabilidade mental pode influenciar o comportamento de consumo ao criar uma cultura do consumo, enquanto a facilidade de acesso ao crédito pode aumentar a propensão ao endividamento ao tornar mais fácil para os indivíduos usar crédito sem considerar as consequências financeiras.\n\n[CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf]",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.236,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.236,
+          "texto": "30) “...o endividamento pessoal pode ser visto tanto como efeito de uma gestão financeira equivocada quanto como resultado de motivações afetivas.” A autora comenta que muitos fatores psicológicos influenciam o consumo e em consequência o endividamento; angústia, status e até inveja são alguns deles. Existem dois tipos de endividamento pessoal o ativo e o passivo, segundo Tolotti (2007 p. 31) “O"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.245,
+          "texto": "é muito alto, sendo de 44,92%. Isso demonstra um comportamento financeiro inadequado por parte dessa cota de respondentes, uma vez que tais maneiras de pensar e agir implicam muitas vezes no endividamento pessoal, ocasionado nestes casos pelo uso desenfreado do cartão de crédito acreditando que este permitirá sustentar uma melhor qualidade de vida, como mostram as questões. \"Discordo\" sob o ponto"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.255,
+          "texto": "estiver endividado, por que não aproveitar a oportunidade? Desvantagens Custo da antecipação do consumo com o uso do crédito implica pagamento de juros A primeira desvantagem em relação ao uso do crédito é o pagamento de juros. Ao anteciparmos a compra de um produto ou a contratação de um serviço sem a devida disponibilidade financeira, usaremos um dinheiro que não é nosso, portanto pagaremos"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.26,
+          "texto": "cultura do consumo, a partir do qual os indivíduos associam felicidade e status social ao ato de comprar bens”. Pode-se dizer que o endividamento não está totalmente relacionado com a renda das pessoas, mas sim, a forma com que estas administram suas receitas e despesas. Nos últimos anos, têm-se registrado níveis de endividamento significativamente elevados e um aumento do não cumprimento dos"
+        }
+      ],
+      "tempo_s": 7.3
+    },
+    {
+      "id": 9,
+      "pergunta": "Como o monitoramento sistemático do fluxo de caixa e a categorização de receitas e despesas contribuem para a disciplina financeira e a realização de metas de longo prazo?",
+      "resposta": "Segundo o documento [FLUXODECAIXA.pdf], o monitoramento sistemático do fluxo de caixa permite que os indivíduos tenham uma visão clara de suas finanças, identificando áreas de gasto excessivo e permitindo ajustes necessários. Além disso, a categorização de receitas e despesas facilita a análise do comportamento econômico, permitindo aos indivíduos identificar padrões e tendências que podem ajudar a alcançar metas de longo prazo.\n\nA categorização de receitas e despesas permite que os indivíduos entendam melhor como seus gastos estão afetando suas finanças e identifiquem áreas onde podem reduzir gastos desnecessários. Isso, por sua vez, contribui para a disciplina financeira, pois os indivíduos são mais propensos a tomar decisões informadas sobre suas finanças.\n\nAlém disso, o monitoramento sistemático do fluxo de caixa e a categorização de receitas e despesas permitem que os indivíduos façam projeções e planejamentos financeiros mais precisos, o que é fundamental para alcançar metas de longo prazo.\n\nNão encontrei informações específicas sobre como o monitoramento sistemático do fluxo de caixa contribui diretamente para a disciplina financeira e a realização de metas de longo prazo em documentos externos.",
+      "recusou": false,
+      "fontes": [
+        "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+        "FINANÇAS PESSOAIS.pdf",
+        "FLUXODECAIXA.pdf"
+      ],
+      "melhor_distancia": 0.251,
+      "recuperados": [
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.251,
+          "texto": "do dia a dia de forma eficiente e economicamente estável. Desta forma com esta pesquisa pretende-se propor um modelo de acompanhamento de fluxo de caixa que facilite o controle das finanças pessoais de um cidadão, contemple a totalidade de suas receitas e despesas e viabilize a análise de seu comportamento econômico. Palavras-chave: controle, orçamento e disciplina. ABSTRAT This paper deals with a"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.282,
+          "texto": "da expressão “educação financeira”. servidores municipais. Silva (2017) Identificar de que forma a contabilidade pode auxiliar estas pessoas na realização do controle orçamentário pessoal. 107 indivíduos que receberam treinamento durante o período de 3 meses. A aplicação de técnicas contábeis de controle orçamentário teve impacto direto e positivo no planejamento financeiro pessoal dos"
+        },
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.31,
+          "texto": "pode destruir as finanças de uma família. O mesmo ocorre com o agendamento de pagamentos. Associar um fluxo de caixa planejado ao uso do débito automático ou agendamento de pagamentos garante que os limites do orçamento sejam visíveis, palpáveis. Fica fácil identificar se houve exagero nos gastos. O interessante é que qualquer empresa que se preze tem um controle semelhante, faz projeções e"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.31,
+          "texto": "de disciplina para registrar seus gastos e receitas com regularidade. O estudo do comportamento humano em relação a suas finanças, e o nível de endividamento, possibilita aos indivíduos conhecer melhores maneiras de controlar seu orçamento financeiro, partindo assim para um melhor gerenciamento de suas finanças, evitando um alto grau de endividamento. Revista de Administração e Negócios da"
+        }
+      ],
+      "tempo_s": 7.7
+    },
+    {
+      "id": 10,
+      "pergunta": "De que forma a educação financeira nas escolas pode capacitar jovens a distinguir desejos de necessidades, evitar armadilhas de consumo e planejar seus sonhos prioritários?",
+      "resposta": "De acordo com o documento [A EDUCAÇO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf], a educação financeira nas escolas pode capacitar jovens a distinguir desejos de necessidades, evitar armadilhas de consumo e planejar seus sonhos prioritários de várias formas:\n\n1. Aprender a identificar desejos e necessidades: As crianças e adolescentes podem aprender a distinguir entre o que é necessário e o que é apenas um desejo, ajudando-os a priorizar suas necessidades financeiras.\n2. Entender os conceitos básicos de economia: A educação financeira nas escolas pode incluir aulas de economia para ensinar os jovens sobre os conceitos básicos da economia, como o valor do dinheiro, a inflação e a despesa.\n3. Planejamento financeiro: As crianças e adolescentes podem aprender a criar orçamentos pessoais e familiares, ajudando-os a planejar suas finanças de forma eficaz.\n4. Aprender a gerenciar o tempo e as prioridades: A educação financeira nas escolas pode incluir aulas que ensinam os jovens a gerenciar seu tempo de forma eficiente, priorizar suas atividades e alcançar seus objetivos.\n5. Desenvolver habilidades críticas: A educação financeira nas escolas pode ajudar os jovens a desenvolver habilidades críticas, como pensamento analítico, tomada de decisões e resolução de problemas.\n\nEssas habilidades podem ser desenvolvidas através de atividades práticas, como:\n\n* Criar orçamentos pessoais e familiares\n* Planejar viagens ou compras\n* Analisar dados financeiros\n* Desenvolver planos de ação para alcançar objetivos financeiros\n\nAo ensinar essas habilidades, as escolas podem ajudar os jovens a tornar-se mais conscientes do seu uso do dinheiro e a tomar decisões financeiras mais informadas.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "FINANÇAS PESSOAIS.pdf",
+        "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.184,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.184,
+          "texto": "são necessários, como demonstrado a seguir. 7 CADERNO DE EDUCAÇÃO FINANCEIRA A educação financeira é o meio de promover comportamentos que contribuem para melhorar o exercício da cidadania financeira e o bem-estar financeiro das pessoas. Fonte: G20 Policy Note on Financial Well-Being, adaptado A educação financeira é também um instrumento para promover o desenvolvimento econômico. Afinal, a"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.184,
+          "texto": "et al. (2017), a educação financeira pode ser definida como a capacidade de realizar um planejamento financeiro baseado em leituras e interpretação de números, sendo que esse planejamento poderá contribuir para o equilíbrio das finanças pessoais e tornar as pessoas mais conscientes quanto ao uso do seu dinheiro. Saber administrar a vida financeira pessoal, principalmente no cenário atual de"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.187,
+          "texto": "é o fundamento da educação financeira, para que as pessoas possam ter melhor qualidade de vida”. É necessário saber se planejar financeiramente para que não ocorra imprevistos futuramente, quanto mais cedo o indivíduo aprender os fundamentos da educação financeira mais eficiente ele se tornará na administração dos seus recursos e realizará seus sonhos de curto, médio e longo prazo. A educação"
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.198,
+          "texto": "de instrução financeira pode acarretar em problemas econômicos que afetam a vida de uma pessoa, uma família e em maior amplitude, de uma sociedade. O que se deve entender é que educação financeira não se trata de deixar de comprar o que gosta, ou de não fazer a viagem que se quer para guardar dinheiro ou, como muitos falam, de guardar dinheiro a vida toda para depois morrer e deixar para os"
+        }
+      ],
+      "tempo_s": 10.8
+    },
+    {
+      "id": 11,
+      "pergunta": "Como a sociologia econômica desconstruiu o orçamento doméstico como mero modelo estatístico para revelar o impacto dos arranjos sociais, culturais e de gênero no dia a dia das famílias?",
+      "resposta": "Não encontrei essa informação nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.319,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.319,
+          "texto": "muitas e é preciso uma grande força de vontade e o envolvimento consciente de todas as pessoas da casa. (EWALD, 2004, p. 12). 21 Um orçamento doméstico auxilia bastante no controle de gastos de uma família, pode se elaborar uma planilha para listar as despesas e as receitas familiares dividindo-as em grupos como as essenciais que são alimentação, água, energia, moradia, saúde, educação e"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.333,
+          "texto": "Por isso, é necessário que todo fluxo dos recursos financeiros, ou seja, toda renda e todo gasto, estejam anotados e organizados. Assim como no tópico anterior, o orçamento familiar é de grande relevância para saber a saúde financeira do indivíduo ou da sua familia, fazer anotações é essencial para o controle das despesas e gastos, colocar as anotações em uma planilha ajuda a ter uma visão mais"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.334,
+          "texto": "e gastos, colocar as anotações em uma planilha ajuda a ter uma visão mais ampla das receitas, despesas e gastos avulsos colaborando assim na melhor organização do orçamento familiar. 2.3 ENDIVIDAMENTO FAMILIAR De acordo com Marques e Frade (2003, p. 3) “entende-se por endividamento o saldo devedor de um agregado familiar”. Embora empréstimos, financiamento entre outros créditos particulares sejam"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.34,
+          "texto": "um padrão de vida acima do padrão de renda que possuem, ou até mesmo usufruindo de um. As facilidades proporcionadas pelo “crédito fácil” propiciam um excesso de compras a prazo que, muitas vezes, comprometem a situação financeira das famílias. Cuidar do orçamento familiar de forma a estar sempre superavitário deve ser uma constante busca de todos nós. Portanto, é fundamental colocarmos em prática"
+        }
+      ],
+      "tempo_s": 1.5
+    },
+    {
+      "id": 12,
+      "pergunta": "Em que medida estudantes universitários sem formação técnica em gestão ou contabilidade aplicam métodos informais de registro e controle para gerenciar suas receitas e despesas?",
+      "resposta": "Não encontrei essa informação nos documentos.",
+      "recusou": true,
+      "fontes": [],
+      "melhor_distancia": 0.349,
+      "recuperados": [
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.349,
+          "texto": "das Instituições de Ensino Superior (IES) que ofertam o curso em uma cidade do sudoeste do Paraná. Estudantes do curso de graduação de Ciências Contábeis de todos os anos /períodos das três IES que ofertam o curso. Os estudantes possuem um alto nível de controle das suas finanças pessoais, com um número de endividados baixo, demonstrando um perfil financeiro consciente. Cunha (2019) Averiguar como"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.356,
+          "texto": "da expressão “educação financeira”. servidores municipais. Silva (2017) Identificar de que forma a contabilidade pode auxiliar estas pessoas na realização do controle orçamentário pessoal. 107 indivíduos que receberam treinamento durante o período de 3 meses. A aplicação de técnicas contábeis de controle orçamentário teve impacto direto e positivo no planejamento financeiro pessoal dos"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.366,
+          "texto": "profissionais contábeis fazem a gestão do patrimônio das entidades, eles estão aptos a gerir ou auxiliar na gestão financeira das pessoas físicas (SILVA, 2017). Os profissionais contábeis podem utilizar seus conhecimentos adquiridos ao longo da profissão ou na graduação para gerir suas finanças pessoais, com isso este estudo busca responder a seguinte questão: Qual a percepção de profissionais"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.366,
+          "texto": "gastam menos do que ganham, esse percentual pode indicar que os profissionais contábeis têm controle sobre suas finanças pessoais evitando que as despesas ultrapassem suas rendas mensais, corroborando com o estudo de Marangoni (2017) ao qual mostrou que 92% dos entrevistados acreditam que os conceitos básicos de contabilidade podem ser ferramentas úteis para gerir as finanças pessoais. Tabela 3:"
+        }
+      ],
+      "tempo_s": 0.4
+    },
+    {
+      "id": 13,
+      "pergunta": "De que maneira instrumentos contábeis práticos — como o acompanhamento do fluxo de caixa diário, a planilha de orçamento e a matriz de organização de dívidas — ajudam a identificar e conter os \"pequenos gastos\" cotidianos?",
+      "resposta": "De acordo com o contexto fornecido, instrumentos contábeis práticos como o acompanhamento do fluxo de caixa diário, a planilha de orçamento e a matriz de organização de dívidas ajudam a identificar e conter os \"pequenos gastos\" cotidianos de várias maneiras:\n\n*   O acompanhamento do fluxo de caixa diário permite que as pessoas acompanhem suas despesas diárias e identifiquem padrões ou hábitos de gasto que possam ser reduzidos.\n*   A planilha de orçamento ajuda a categorizar os gastos e a identificar áreas onde é possível cortar despesas, permitindo uma visão clara do orçamento e da situação financeira.\n*   A matriz de organização de dívidas permite que as pessoas priorizem suas dívidas e desenvolvam um plano para pagá-las, ajudando a evitar juros e a reduzir o estresse financeiro.\n\nEsses instrumentos contábeis práticos fornecem uma visão clara e objetiva da situação financeira, permitindo que as pessoas tomem decisões informadas sobre como gerenciar seus gastos e dívidas.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "FINANÇAS PESSOAIS.pdf",
+        "FLUXODECAIXA.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.262,
+      "recuperados": [
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.262,
+          "texto": "pode destruir as finanças de uma família. O mesmo ocorre com o agendamento de pagamentos. Associar um fluxo de caixa planejado ao uso do débito automático ou agendamento de pagamentos garante que os limites do orçamento sejam visíveis, palpáveis. Fica fácil identificar se houve exagero nos gastos. O interessante é que qualquer empresa que se preze tem um controle semelhante, faz projeções e"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.276,
+          "texto": "pois negligencia a necessidade de reservas no futuro.” Gitman (2004) destaca que a utilização de computadores e planilhas eletrônicas facilita a elaboração e o procedimento analítico de diversas situações no controle do orçamento. Atitudes simples como fazer anotações, seja em um caderno ou em planilhas no computador pode-se auxiliar no corte de gastos supérfluos e ajudar aevitar juros, melhorando"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.28,
+          "texto": "da expressão “educação financeira”. servidores municipais. Silva (2017) Identificar de que forma a contabilidade pode auxiliar estas pessoas na realização do controle orçamentário pessoal. 107 indivíduos que receberam treinamento durante o período de 3 meses. A aplicação de técnicas contábeis de controle orçamentário teve impacto direto e positivo no planejamento financeiro pessoal dos"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.28,
+          "texto": "iniciarmos procedimentos novos. 5 Lembre-se de que o orçamento é um exercício de planejamento. Existem diversas ferramentas para você fazer o registro de seus ganhos e seus gastos, desde as mais simples, como um pedaço de papel e um lápis, até as mais sofisticadas, como planilhas, programas de computador e aplicativos. Use a que te deixa mais confortável. Mas não basta registrar o que ganhou e o"
+        }
+      ],
+      "tempo_s": 6.6
+    },
+    {
+      "id": 14,
+      "pergunta": "Como o planejamento e o uso da tecnologia podem ajudar as famílias a organizarem o orçamento doméstico?",
+      "resposta": "De acordo com os documentos fornecidos, não há informações específicas sobre como o planejamento e o uso da tecnologia podem ajudar as famílias a organizar o orçamento doméstico. No entanto, podemos inferir que a utilização de ferramentas digitais, como planilhas eletrônicas, pode ser uma forma eficaz de ajudar as famílias a organizar e controlar seus gastos.\n\nA planilha de orçamento apresentada no Gráfico 10 sugere que a organização das receitas e despesas familiares em um formato digital pode ser uma ferramenta útil para o planejamento financeiro. Além disso, a capacidade de atualizar e revisar as anotações regularmente pode ajudar as famílias a ter uma visão mais clara do seu fluxo financeiro.\n\nPortanto, embora não haja informações específicas sobre como o uso da tecnologia pode ajudar as famílias a organizar o orçamento doméstico, podemos inferir que a utilização de ferramentas digitais pode ser uma forma eficaz de melhorar a gestão financeira familiar.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf"
+      ],
+      "melhor_distancia": 0.195,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.195,
+          "texto": "muitas e é preciso uma grande força de vontade e o envolvimento consciente de todas as pessoas da casa. (EWALD, 2004, p. 12). 21 Um orçamento doméstico auxilia bastante no controle de gastos de uma família, pode se elaborar uma planilha para listar as despesas e as receitas familiares dividindo-as em grupos como as essenciais que são alimentação, água, energia, moradia, saúde, educação e"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.212,
+          "texto": "essential to have a well-founded family budget management that aims to improve control over the income and expenses of a family or individual, thus helping in the preparation of plans to achieve pre-established goals. short, medium or long term. Therefore, the results of this research show the knowledge acquired in basic education about personal and family budget management in public higher"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.231,
+          "texto": "apenas no cartão e os outros 3% não sabem. Na esfera familiar a organização dos gastos consiste no registro das receitas e despesas previstas pela família, tendo que ser organizado de forma que todos os tipos de gastos e aquisições financeiras do período sejam abrangidos para que se possa planejar as ações futuras (PEIXE; LEHNHARD; HARRES, 2000). 33 Gráfico 10 – Planilha de orçamento"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.243,
+          "texto": "Por isso, é necessário que todo fluxo dos recursos financeiros, ou seja, toda renda e todo gasto, estejam anotados e organizados. Assim como no tópico anterior, o orçamento familiar é de grande relevância para saber a saúde financeira do indivíduo ou da sua familia, fazer anotações é essencial para o controle das despesas e gastos, colocar as anotações em uma planilha ajuda a ter uma visão mais"
+        }
+      ],
+      "tempo_s": 7.1
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual é o impacto de manter um orçamento familiar sobre o endividamento e a capacidade de poupar?",
+      "resposta": "Segundo o documento [A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf], manter um orçamento familiar ajuda a ter uma visão mais ampla das receitas, despesas e gastos avulsos, colaborando assim na melhor organização do orçamento familiar. Isso pode ajudar a identificar áreas de economia e reduzir o risco de endividamento excessivo.\n\nAlém disso, ao revisar o orçamento pessoal e familiar após uma perda de emprego ou de parte da renda familiar, é fundamental adequar as despesas à nova realidade para evitar o endividamento. Isso demonstra que manter um orçamento familiar pode ajudar a prevenir o endividamento excessivo.\n\nJá no documento [GUIA planejamento financeiro.pdf], não há informações específicas sobre o impacto de manter um orçamento familiar sobre o endividamento e a capacidade de poupar. No entanto, é mencionado que buscar aconselhamento e informar-se sobre as opções de investimento podem ajudar a tomar decisões mais informadas.\n\nO documento [FLUXODECAIXA.pdf] não aborda diretamente o impacto de manter um orçamento familiar sobre o endividamento e a capacidade de poupar. No entanto, destaca a importância de observar o fluxo de caixa e manter o material atualizado para evitar problemas financeiros.\n\nEm resumo, manter um orçamento familiar pode ajudar a prevenir o endividamento excessivo ao identificar áreas de economia e reduzir as despesas. Além disso, é fundamental revisar o orçamento após uma perda de renda ou emprego para evitar problemas financeiros.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "FLUXODECAIXA.pdf",
+        "GUIA planejamento financeiro.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.192,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.192,
+          "texto": "e gastos, colocar as anotações em uma planilha ajuda a ter uma visão mais ampla das receitas, despesas e gastos avulsos colaborando assim na melhor organização do orçamento familiar. 2.3 ENDIVIDAMENTO FAMILIAR De acordo com Marques e Frade (2003, p. 3) “entende-se por endividamento o saldo devedor de um agregado familiar”. Embora empréstimos, financiamento entre outros créditos particulares sejam"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.221,
+          "texto": "excessivo. A perda de emprego ou de parte da renda familiar sem a devida redução nas despesas pode, facilmente, levar uma família ao endividamento excessivo. Portanto, ao deparar-se com uma redução de renda, é fundamental fazer uma cuidadosa revisão do orçamento pessoal e familiar, adequando as despesas à nova realidade. Despesas emergenciais Imprevistos verdadeiros acontecem. Um defeito ou uma"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.233,
+          "texto": "desnecessários. O pagamen­ to de juros é uma despesa a mais, que acaba dificultando que as famílias sigam o orçamen­ to planejado. Oriente-se e informe-se sobre as opções de investimento para cada tipo de objetivo e reser­ va. Busque aconselhamento, caso necessário. o que esperar o que esperar Ao final deste passo teremos o produto final do planejamento financeiro: o orçamento do­ méstico. Nesse"
+        },
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.237,
+          "texto": "São muitas as famílias que optam por manter certas contas no débito automático. Apenas conferir a fatura e esperar que o valor seja debitado diretamente da conta corrente é um luxo merecido para quem mantém o orçamento familiar atualizado. Sem observar o fluxo de caixa e manter o material sempre atualizado, tal facilidade pode destruir as finanças de uma família. O mesmo ocorre com o agendamento"
+        }
+      ],
+      "tempo_s": 10.3
+    },
+    {
+      "id": 16,
+      "pergunta": "O que é o custo de oportunidade e como ele se aplica a uma escolha financeira que envolva tempo e dinheiro?",
+      "resposta": "O custo de oportunidade refere-se ao preço (financeiro ou não) que pagamos por uma escolha, perdendo a possibilidade de aproveitar qualquer outra oportunidade. Em outras palavras, é o valor que estamos sacrificando ao tomar uma decisão em um momento específico, considerando tanto o tempo quanto o dinheiro.\n\nPor exemplo, se você decide gastar seu tempo lendo este caderno de educação financeira, está perdendo a oportunidade de ir à praia nesse mesmo período. Já se você decide investir dinheiro em uma ação que aumenta de valor, mas não é tão lucrativa quanto outra opção, está pagando um custo de oportunidade em termos financeiros.\n\nNesse sentido, o custo de oportunidade é um conceito importante para refletir e decidir sobre o que será mais importante e significativo para você.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.25,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.25,
+          "texto": "vez de fazermos outra, chamamos de custo de oportunidade. Assim, o seu custo de oportunidade está associado à sua escolha. Ao tomarmos uma decisão e realizarmos uma determinada escolha, estamos abrindo mão de outras possibilidades, estamos renunciando a outras oportunidades. O custo de oportunidade refere-se ao preço (financeiro ou não) que pagamos por uma escolha, perdendo a possibilidade de"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.287,
+          "texto": "o custo de oportunidade pode ser um exercício útil na hora de refletir e decidir sobre o que será mais importante e significativo para você. PONHA EM PRÁTICA 5 Eduque-se financeiramente. Não é porque lidamos com o dinheiro desde pequenos que não precisamos dedicar tempo para isso. É comum achar que sabemos mais sobre o uso do dinheiro do que realmente sabemos. 5 Sonhe. É importante para sua vida."
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.295,
+          "texto": "(financeiro ou não) que pagamos por uma escolha, perdendo a possibilidade de aproveitar qualquer outra oportunidade. SUMÁRIO 21 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 1 O custo de oportunidade não é definido só em termos de dinheiro. Ele pode estar associado a qualquer coisa que tenha valor para você. Um exemplo é o tempo: estar aqui lendo este caderno significa que você deixou de ir à praia,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.363,
+          "texto": "que adquirir. Por outro lado, pode acontecer de o preço do produto ou serviço aumentar, tornando-se mais cara a sua aquisição. Pode acontecer também de o produto ou serviço não estar mais disponível daqui a quatro meses. Por isso, é importante considerar os diversos aspectos envolvidos na escolha intertemporal, além do pagamento de juros ou do recebimento de rendimentos. SUMÁRIO 19 CADERNO DE"
+        }
+      ],
+      "tempo_s": 4.7
+    },
+    {
+      "id": 17,
+      "pergunta": "Quais são as quatro dimensões nas quais a cidadania financeira se divide?",
+      "resposta": "As quatro dimensões nas quais a Cidadania Financeira se divide são:\n\n• Educação Financeira;\n• Inclusão Financeira;\n• Proteção ao consumidor de serviços financeiros;\n• Participação Cidadã.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.351,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.351,
+          "texto": "as contas, tem reserva e realiza projetos CIDADANIA FINANCEIRA é o exercício de direitos e deveres que permite ao cidadão gerenciar bem seus recur- sos financeiros. Divide-se em quatro dimensões: • educação financeira; • inclusão financeira; • proteção ao consumidor de serviços financeiros; e • participação cidadã. BEM-ESTAR FINANCEIRO é o estado em que o indivíduo consegue pagar suas contas, ter"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.408,
+          "texto": "Cidadania Financeira: https://www.bcb.gov.br/cidadaniafinanceira. Aprender Valor: https://aprendervalor.bcb.gov.br. BC nas redes sociais (YouTube, WhatsApp, TikTok, Instagram, Facebook etc): https://linktr.ee/bancocentraldobrasil. SUMÁRIO 80 CADERNO DE EDUCAÇÃO FINANCEIRA EXERCÍCIOS Exercícios MÓDULO 1 Nossa Relação com o Dinheiro 1) Reflita sobre seus desejos e necessidades. Na figura abaixo,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.445,
+          "texto": "de forma consciente e responsável. Ao longo do material, foram abordados conceitos fundamentais, como orçamento, uso do crédito, consumo planejado, poupança, investimento e prevenção de riscos. Esses temas não apenas contribuem para melhorar o bem-estar financeiro individual e familiar, mas também fortalecem a cidadania financeira, ampliando a capacidade de tomar decisões autônomas e equilibradas."
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.449,
+          "texto": "Caderno de Educação\u0003 Financeira Versão 2026 – 2ª edição revisada Diretora de Relacionamento Institucional e Cidadania Izabela Moreira Correa Chefe do Departamento de Promoção da Cidadania Financeira Luis Gustavo Mansur Siqueira Chefe-Adjunto do Departamento de Promoção da Cidadania Financeira Ronaldo Vieira da Silva Chefe da Divisão de Educação Financeira 1 Ana Marcia de Oliveira Fonseca"
+        }
+      ],
+      "tempo_s": 1.4
+    },
+    {
+      "id": 18,
+      "pergunta": "O que define o estado de bem-estar financeiro de acordo com a adaptação da G20 Policy Note on Financial Well-Being?",
+      "resposta": "Não encontrei essa informação nos documentos.",
+      "recusou": true,
+      "fontes": [],
+      "melhor_distancia": 0.269,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.269,
+          "texto": "comportamento informacional de usuários de informação financeira pessoal. Tese (Doutorado em Ciência da Informação) – Universidade Estadual Paulista, Marília, 2012. ORGANIZAÇÃO PARA A COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO (OCDE). G20 policy note on financial well-being. Paris: OCDE, 2024. Disponível em: https://www. oecd.org/content/dam/oecd/en/publications/ reports/2024/11/g20-policy-note-on-"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.371,
+          "texto": "oecd.org/content/dam/oecd/en/publications/ reports/2024/11/g20-policy-note-on- financialwell-being_5eade0bc/7332c99d-en.pdf. Acesso em: 19 jan. 2026. SELIGMAN, Martin. Felicidade autêntica: usando a nova psicologia positiva para a realização permanente. Rio de Janeiro: Objetiva, 2004. SOUZA, Marcos Aguerri Pimenta. O uso do crédito pelo consumidor: percepções multifacetadas de um fenômeno"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.374,
+          "texto": "são necessários, como demonstrado a seguir. 7 CADERNO DE EDUCAÇÃO FINANCEIRA A educação financeira é o meio de promover comportamentos que contribuem para melhorar o exercício da cidadania financeira e o bem-estar financeiro das pessoas. Fonte: G20 Policy Note on Financial Well-Being, adaptado A educação financeira é também um instrumento para promover o desenvolvimento econômico. Afinal, a"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.375,
+          "texto": "Gráfico 4 – Grau de importância da educação financeira Fonte: dados da pesquisa (2021) 28 Para Herculano (1998) a avaliação da qualidade de vida dos indivíduos pode ser realizada averiguando os recursos que estão á disposição e a capacidade de satisfazer suas necessidades, ou, analisando as necessidades pelo grau de satisfação e desejos atingidos. O gráfico acima revela que 43% dos acadêmicos"
+        }
+      ],
+      "tempo_s": 0.4
+    },
+    {
+      "id": 19,
+      "pergunta": "Quais são as três possíveis situações que um orçamento pode apresentar em sua gestão?",
+      "resposta": "Segundo o documento [caderno_cidadania_financeira.pdf], existem três situações possíveis que um orçamento pode apresentar em sua gestão:\n\n1. Deficitário: quando as despesas superam as receitas.\n2. Neutro ou equilibrado: quando as despesas são iguais às receitas.\n3. Superavitário: quando as receitas superam as despesas.\n\nEssas situações são mencionadas no documento [caderno_cidadania_financeira.pdf] em seção 2.4 Gestão orçamentária.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.196,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.196,
+          "texto": "gastando aquilo que planejou com cada grupo de despesas (alimentação, vestuário, lazer)? • É possível aumentar as receitas? 2.4 Gestão orçamentária Um orçamento tem três situações possíveis: deficitário, neutro ou superavitário. Quando as despesas superam as receitas, o orçamento está deficitário. Quando as despesas são iguais às receitas, dizemos que o orçamento está neutro ou equilibrado. Já"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.23,
+          "texto": "Na elaboração do orçamento, é necessário organizar e planejar suas despesas, com o objetivo de gastar bem o seu dinheiro, suprir suas necessidades e ainda realizar sonhos e atingir metas, de acordo com as prioridades definidas. O PROCESSO DE ELABORAÇÃO Existe mais de uma maneira de elaborar um orçamento. Vamos sugerir a seguir um método em quatro etapas: planejamento, registro, agrupamento e"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.241,
+          "texto": "FINANCEIRA MÓDULO 2 2.1 O que é orçamento? Orçamento pode ser visto como uma ferramenta de planejamento financeiro pessoal que contribui para a realização de sonhos e projetos. Para ter um bom planejamento, é necessário saber onde se quer chegar, internalizar a visão de futuro trazida pela perspectiva de realização do projeto e estabelecer metas claras e objetivas, as quais geralmente precisam de"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.278,
+          "texto": "OU FAMILIAR, 22 2.1 O que é orçamento?, 23 2.2 Elaboração do orçamento, 24 2.3 Como elaborar um orçamento, 25 2.4 Gestão orçamentária, 27 2.5 Participação da família no orçamento, 29 Ponha em prática, 30 MÓDULO 3 – USO DO CRÉDITO E ADMINISTRAÇÃO DAS DÍVIDAS, 31 3.1 Definição de crédito, 32 3.2 Valor do dinheiro no tempo, 32 3.3 Atenção aos juros, 32 3.4 Uso do crédito, 35 3.5 Endividamento, 40"
+        }
+      ],
+      "tempo_s": 3.6
+    },
+    {
+      "id": 20,
+      "pergunta": "Quais são as três características fundamentais que devem ser conhecidas ao analisar um investimento?",
+      "resposta": "As três características fundamentais que devem ser conhecidas ao analisar um investimento são:\n\na) Liquidez\nb) Risco (ou segurança)\nc) Rentabilidade.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.24,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.24,
+          "texto": "de outro? Os investimentos possuem características que os diferenciam uns dos outros, como taxas de administração, rentabilidade esperada, formas de tributação etc. Conhecer e fazer uma avaliação detalhada sobre essas características torna-se fator relevante para decidirmos por um ou por outro investimento. Ao escolhermos entre uma instituição ou outra para administrar nossos investimentos,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.248,
+          "texto": "sua situação. O investidor pode ser classificado em três diferentes perfis, de acordo com a sua disposição para aceitar riscos, sua preferência por liquidez e expectativa de rentabilidade: conservador, moderado ou arrojado (agressivo). A análise de perfil do investidor é fundamental para que seus investimentos sejam realizados de forma consciente e sejam compatíveis com seus objetivos. Qual o seu"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.267,
+          "texto": "fazer um investimento que atenda às necessidades, é importante conhecer as três características dos investimentos: liquidez, risco (ou segurança) e rentabilidade. a) Liquidez é a possibilidade de o investimento ser transformado em dinheiro vivo a qualquer momento, por um preço justo. b) Risco é a probabilidade de ocorrência de perdas. Normalmente, quanto maior o risco, maior a probabilidade de o"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.292,
+          "texto": "– Conservador. III. Moderado – Conservador – Arrojado. IV. Conservador – Moderado – Arrojado. SUMÁRIO 90 CADERNO DE EDUCAÇÃO FINANCEIRA EXERCÍCIOS 4) Assinale a alternativa correta. a) A carteira de investimentos dos investidores de perfil arrojado deve ser composta apenas por caderneta de poupança, títulos públicos e fundos de curto prazo. b) Fundos multimercado são exemplos de investimento mais"
+        }
+      ],
+      "tempo_s": 1.2
+    },
+    {
+      "id": 21,
+      "pergunta": "O que significa a liquidez em um investimento e como ela geralmente é expresso nos fundos de aplicação sem resgate imediato?",
+      "resposta": "A liquidez em um investimento refere-se à possibilidade de transformar o investimento em dinheiro vivo a qualquer momento, por um preço justo. Em fundos de aplicação sem resgate imediato, a liquidez é geralmente expressa pela letra \"D\" mais um número, indicando o tempo que leva para que o resgate seja disponibilizado. Por exemplo, se for D+1, o resgate de um valor solicitado hoje só estará disponível na conta-corrente amanhã (ou no próximo dia útil).",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.296,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.296,
+          "texto": "dinheiro. Caderneta de poupança e fundos de aplicação em renda fixa, com resgate imediato, são considerados produtos com alta liquidez. Já os fundos de aplicação sem resgate imediato têm liquidez variável, normalmente expressa pela letra D mais um número. Se for D+1, por exemplo, o resgate de um valor solicitado hoje só estará disponível na conta-corrente amanhã (ou no próximo dia útil, se amanhã"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.349,
+          "texto": "verdadeira. ( ) Renda fixa é um investimento que paga, em períodos definidos, a remuneração correspondente a determinada taxa de juros. Essa taxa pode ser estipulada no momento da aplicação (prefixada) ou calculada no momento do resgate (pós-fixada). ( ) Renda variável é um investimento cuja remuneração não pode ser definida no momento da aplicação. Ex.: ações. ( ) Clube de investimento é um"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.388,
+          "texto": "fazer um investimento que atenda às necessidades, é importante conhecer as três características dos investimentos: liquidez, risco (ou segurança) e rentabilidade. a) Liquidez é a possibilidade de o investimento ser transformado em dinheiro vivo a qualquer momento, por um preço justo. b) Risco é a probabilidade de ocorrência de perdas. Normalmente, quanto maior o risco, maior a probabilidade de o"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.391,
+          "texto": "fundos de curto prazo. b) Fundos multimercado são exemplos de investimento mais compatíveis com investidores de perfil conservador. c) Fundos cambiais e de ações são sempre indicados para investidores com perfil moderado. d) Nenhuma das anteriores. 5) Assinale (F) para alternativa falsa e (V) para alternativa verdadeira. ( ) Renda fixa é um investimento que paga, em períodos definidos, a"
+        }
+      ],
+      "tempo_s": 3.0
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é a principal diferença conceitual e de tributação entre os planos de previdência complementar aberta conhecidos como PGBL e VGBL?",
+      "resposta": "Não encontrei essa informação nos documentos.",
+      "recusou": true,
+      "fontes": [],
+      "melhor_distancia": 0.255,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.255,
+          "texto": "a assuntos financeiros. Os tipos de planos mais conhecidos de previdência complementar aberta são: o Plano Gerador de Benefício Livre (PGBL) e o Vida Gerador de Benefício Livre (VGBL). A rigor, o VGBL é um tipo de seguro, que, na prática, pode ser utilizado como opção financeira para a aposentadoria. O PGBL e o VGBL têm características e nomes parecidos, e têm como principal diferença a forma como"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.337,
+          "texto": "inclui as Entidades Fechadas de Previdência Complementar (EFPC) e as Entidades Abertas de Previdência Complementar (EAPC). A previdência complementar existe para proporcionar uma renda adicional na aposentadoria, complementando a previdência pública (RGPS e RPPS). Ao contrário do que acontece com os regimes geral e próprios (que são os regimes da previdência social pública e são obrigatórios), a"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.343,
+          "texto": "complementares são de dois tipos: os planos de previdência complementar fechada e os de previdência complementar aberta. Vamos falar um pouco sobre cada um deles. Previdência complementar fechada: as Entidades Fechadas de Previdência Complementar (EFPC), popularmente conhecidas como “Fundos de Pensão”, administram planos de benefícios previdenciários para indivíduos que possuam vínculo"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.399,
+          "texto": "complementação. Planos complementares Os planos conhecidos como complementares têm esse nome devido à ideia de que eles se somam aos planos obrigatórios. Eles vão complementar a aposentadoria. Trata-se de um esforço do indivíduo para manter ou ampliar as suas receitas financeiras no momento da aposentadoria. Os planos complementares são de dois tipos: os planos de previdência complementar fechada"
+        }
+      ],
+      "tempo_s": 0.4
+    },
+    {
+      "id": 23,
+      "pergunta": "O que representam a franquia e o prêmio em um contrato de seguro?",
+      "resposta": "De acordo com a Superintendência de Seguros Privados (Susep), a Franquia é o valor expresso na apólice que representa a parte do prejuízo que deverá ser paga pelo segurado no caso da ocorrência de um sinistro coberto pelo seguro.\n\nJá o Prêmio é o valor que o segurado paga à seguradora para ter direito ao seguro. Note que o significado é bem diferente do que se poderia imaginar, a princípio.\n\nEm outras palavras, a Franquia é uma parte do custo total do seguro que o segurado assume em caso de sinistro, enquanto o Prêmio é o valor pago pelo segurado para ter acesso ao seguro.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.261,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.261,
+          "texto": "os seguros Segundo a Superintendência de Seguros Privados (Susep), autarquia vinculada ao Ministério da Fazenda que controla e fiscaliza as empresas seguradoras, seguro é “um contrato pelo qual uma das partes se obriga a indenizar a outra pela ocorrência de eventuais prejuízos previstos nas condições contratuais”. Assim, ao contratar um seguro, você paga a uma empresa seguradora uma quantia para"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.301,
+          "texto": "de um sinistro coberto pelo seguro. • Sinistro: a ocorrência do risco coberto, durante o período de vigência do seguro. • Prêmio: valor que o segurado paga à seguradora para ter direito ao seguro. Note que o significado é bem diferente do que se poderia imaginar, a princípio. • Franquia: valor expresso na apólice que representa a parte do prejuízo que deverá ser paga pelo segurado no caso da"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.304,
+          "texto": "FINANCEIRA MÓDULO 6 A seguir, veja alguns dos principais elementos de um contrato de seguro. • Apólice: documento emitido pela empresa seguradora formalizando a aceitação da cobertura solicitada e expressando as condições básicas do seguro. • Risco: evento incerto ou de data incerta que independe da vontade das partes contratantes (segurado e seguradora) e cuja ocorrência dará direito à"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.339,
+          "texto": "das partes contratantes (segurado e seguradora) e cuja ocorrência dará direito à indenização descrita na apólice. • Segurado: pessoa interessada no bem exposto ao risco. • Seguradora: instituição que assume a responsabilidade pelo pagamento da indenização. • Indenização: pagamento, ao segurado, dos prejuízos decorrentes de um sinistro coberto pelo seguro. • Sinistro: a ocorrência do risco coberto,"
+        }
+      ],
+      "tempo_s": 4.1
+    },
+    {
+      "id": 24,
+      "pergunta": "O que são e quais são os riscos associados aos ativos virtuais (criptomoedas) em relação à sua emissão e garantia?",
+      "resposta": "Segundo o documento [caderno_cidadania_financeira.pdf], as moedas virtuais (ativos virtuais, criptomoedas ou moedas criptográficas) não são emitidas, nem garantidas pelo Banco Central. Elas não têm as características de uma moeda, como meio de troca, reserva de valor e unidade de conta.\n\nOs riscos associados aos ativos virtuais (criptomoedas) incluem:\n\n* Grande volatilidade: seu valor pode variar muito rapidamente;\n* Risco de perda do patrimônio investido: se você não acertar em suas aplicações, pode perder todo o dinheiro;\n* Falta de garantia: as moedas virtuais não são emitidas ou garantidas pelo Banco Central.\n\nNão encontrei informações específicas sobre a emissão e garantia das moedas virtuais nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.338,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.338,
+          "texto": "virtuais não são emitidas, nem garantidas pelo Banco Central. Elas não têm as características de uma moeda, ou seja, de meio de troca, de reserva de valor e de unidade de conta. Seu valor decorre exclusivamente da confiança entre quem adquire e quem emite, e o risco pelas transações com moedas virtuais é exclusivo dessas pessoas. Por isso, as moedas virtuais podem apresentar grande volatilidade e"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.354,
+          "texto": "pessoas. Por isso, as moedas virtuais podem apresentar grande volatilidade e riscos de perda do patrimônio investido. RENDA FIXA São investimentos que pagam, em períodos definidos, a remuneração correspondente a determinada taxa de juros. Essa taxa pode ser estipulada no momento da aplicação (prefixada) ou calculada no momento do resgate (pós- fixada), com base na variação de um indexador"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.427,
+          "texto": "seu dinheiro, você depende de seu palpite. Se não acertar, não apenas deixa de multiplicar seu capital, mas pode até perder todo o dinheiro. Cuidado também com os ativos virtuais, também chamados de moedas virtuais, criptomoedas ou moedas criptográficas (tais como Bitcoin, Ethereum, Tether e várias outras). As moedas virtuais não são emitidas, nem garantidas pelo Banco Central. Elas não têm as"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.454,
+          "texto": "avaliam como risco extremo investir em um negócio que possua grandes chances de não dar certo, 22 e 35 dizem ser um ato de muito risco, outros dois e quatro risco moderado, apenas Revista de Administração e Negócios da Amazônia, V.9, n.3, mai/ago, 2017 ISSN:2176-8366 DOI 10.18361/2176-8366/rara.v9n3p139-162 151 Canto, Treter e Cavalli p.151-162 www.rara.unir.br www.rara.unir.br dois e um avaliam"
+        }
+      ],
+      "tempo_s": 5.0
+    },
+    {
+      "id": 25,
+      "pergunta": "O que preconizam os chamados \"5 Rs\" na relação de consumo consciente?",
+      "resposta": "Os chamados \"5 Rs\" na relação de consumo consciente são:\n\n1. Repensar\n2. Reduzir\n3. Reutilizar\n4. Reciclar\n5. Recusar.\n\nEssas práticas evitam desperdícios e poucam recursos, além de contribuir para a proteção do meio ambiente.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.365,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.365,
+          "texto": "MÓDULO 4 Consumo Planejado e Consciente 1) Podem ser considerados itens que dificultam o planejamento: a) Busca pelo prazer imediato. b) Pouca formação financeira. c) Comprometimento da tomada de decisão por fatores como publicidade ou opinião de amigos e familiares. d) Memória inflacionária do brasileiro. e) Todas as anteriores. 2) Quais são as vantagens em se planejar o consumo? a) Maximizar os"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.384,
+          "texto": "que usem menos recursos e gerem menos resíduos. Utilizar os 5 Rs na relação de consumo: repensar, reduzir, reutilizar, reciclar e recusar. Isso evita desperdícios e poupa o meio ambiente. Identificar meios de reaproveitar materiais ou restaurar objetos. Avaliar os impactos ambientais e sociais antes de consumir. Reutilizar e reparar sempre que possível, prolongando a vida útil dos bens. Trata-se"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.393,
+          "texto": "que a população humana já ultrapassa os oito bilhões. Consumir tendo em conta as consequências desse consumo, em médio e longo prazo, para as populações do planeta é usualmente chamado de “consumo consciente”. O consumo consciente propicia, além das vantagens ambientais, benefícios sociais e econômicos para a sociedade como um todo, e individuais para aquele que consome conscientemente. Desse"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.423,
+          "texto": "c) Contribui para você identificar e entender os hábitos de consumo. d) Dispensa acompanhamento e monitoramento. 2) A elaboração do orçamento financeiro pessoal, de acordo com o método em quatro etapas (planejamento, registro, agrupamento e avaliação), permite-nos afirmar: a) Na 1ª etapa, realiza-se o processo de planejamento, que consiste em estimar as receitas e as despesas do período. b) Na 2ª"
+        }
+      ],
+      "tempo_s": 2.0
+    },
+    {
+      "id": 26,
+      "pergunta": "Quais são os principais hábitos que prejudicam e estragam as cédulas de dinheiro, gerando custos para a sociedade?",
+      "resposta": "Não encontrei essa informação nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+        "Orçamento (Susesp).pdf"
+      ],
+      "melhor_distancia": 0.234,
+      "recuperados": [
+        {
+          "fonte": "Orçamento (Susesp).pdf",
+          "distancia": 0.234,
+          "texto": "periodicamente, apresentam variações significativas de valor, de acordo com o consumo. Por exemplo: contas de telefone, despesas alimentação (mercado, padaria, feira), lazer (cinema, lanchonetes, etc.), combustível. Despesas eventuais ou extraordinárias – são despesas que somente ocorrem por necessidades específicas, que não se repetem sempre. São as despesas com farmácia, material escolar,"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.249,
+          "texto": "característica, que corresponde ao consumo excessivo, onde a aquisição de bens e mercadorias muitas vezes está associada à felicidade e ao bem estar. Com a facilidade de acesso ao crédito, através de empréstimos, financiamentos, cheques pré-datados e cartões de crédito, o consumismo pode levar ao endividamento pessoal, impedindo o cumprimento dos compromissos financeiros. O endividamento é a"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.257,
+          "texto": "e suas despesas na forma de registros contábeis. Isto acontece devido ao fato dos indivíduos não possuírem o entendimento de que, assim como nas organizações, suas finanças também possuem contas de ativo, passivo e patrimônio líquido, às quais precisam ser controladas. A sociedade moderna apresenta uma forte característica, que corresponde ao consumo excessivo, onde a aquisição de bens e"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.261,
+          "texto": "ligado a características pessoais, persistência e dedicação para obter um bom controle. De acordo com Trindade, Righi e Vieira (2012, p.718), “consumo exacerbado pode levar muitos indivíduos a contraírem dívidas comprometendo uma parcela significativa de suas rendas e, em muitos casos, acabando por se tornarem inadimplentes”. É necessário um planejamento financeiro adequado para conseguir ter um"
+        }
+      ],
+      "tempo_s": 0.5
+    },
+    {
+      "id": 27,
+      "pergunta": "O que caracteriza os investimentos de renda fixa e de renda variável, respectivamente?",
+      "resposta": "De acordo com o [caderno_cidadania_financeira.pdf], os investimentos podem ser classificados em renda fixa e/ou de renda variável.\n\nOs investimentos de **renda fixa** caracterizam-se pela aplicação de recursos poupados com a expectativa de obtermos uma remuneração constante e previsível, como salário, aposentadoria, pensão, recebimento de aluguéis, etc. Esses investimentos apresentam uma frequência em que são recebidas as receitas fixas e uma variação dos valores limitada.\n\nJá os investimentos de **renda variável** caracterizam-se pela aplicação de recursos poupados com a expectativa de obtermos uma remuneração que pode variar, como rendimento de investimentos, recebimentos por serviços prestados, etc. Esses investimentos apresentam uma frequência em que são recebidas as receitas variáveis e uma variação dos valores maior.\n\nNão encontrei informações específicas sobre a diferença entre poupança e caderneta de poupança nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "Orçamento (Susesp).pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.296,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.296,
+          "texto": "cuja remuneração não pode ser dimensionada no momento da aplicação. Envolvem riscos maiores, e se espera deles maior rentabilidade (que pode ou não ocorrer). Exemplo: ações. Os investimentos podem ser de renda fixa e/ou de renda variável. SUMÁRIO 66 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 5 O que diferencia um investimento de outro? Os investimentos possuem características que os diferenciam uns dos"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.298,
+          "texto": "de outro? Os investimentos possuem características que os diferenciam uns dos outros, como taxas de administração, rentabilidade esperada, formas de tributação etc. Conhecer e fazer uma avaliação detalhada sobre essas características torna-se fator relevante para decidirmos por um ou por outro investimento. Ao escolhermos entre uma instituição ou outra para administrar nossos investimentos,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.299,
+          "texto": "o hábito de poupar. 5.2 Poupança e investimento Já vimos que poupança é a diferença entre as receitas e as despesas, ou seja, entre tudo que ganhamos e tudo que gastamos. E investimento? Investimento é a aplicação dos recursos que poupamos, com a expectativa de obtermos uma remuneração por essa aplicação. Você sabe a diferença entre poupança e caderneta de poupança? POUPANÇA A poupança é uma"
+        },
+        {
+          "fonte": "Orçamento (Susesp).pdf",
+          "distancia": 0.304,
+          "texto": "a frequência em que são recebidas e a variação dos valores. Receitas fixas são aquelas que estão sempre presentes no orçamento e cujos valores não variam muito ao longo do tempo, como salário, aposentadoria, pensão, recebimento de aluguéis etc. Receitas variáveis são esporádicas e podem apresentar uma grande variação de valores, como rendimento de investimentos, recebimentos por serviços prestados"
+        }
+      ],
+      "tempo_s": 6.4
+    },
+    {
+      "id": 28,
+      "pergunta": "O que estabelece o Regime Geral da Previdência Social (RGPS) gerido pelo INSS em termos de abrangência de trabalhadores?",
+      "resposta": "O Regime Geral da Previdência Social (RGPS), administrado pelo Instituto Nacional do Seguro Social (INSS), está abrangente os trabalhadores da iniciativa privada, com carteira assinada, ou seja, aqueles contratados nos termos da Consolidação das Leis do Trabalho (CLT).",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.239,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.239,
+          "texto": "(CLT). Além desses, estão também no RGPS os trabalhadores domésticos e os autônomos. • Os Regimes Próprios de Previdência Social (RPPS), para servidores públicos da União, dos estados e Distrito Federal e dos municípios, e para os militares dos estados e do Distrito Federal. • O Regime de Previdência Complementar, que inclui as Entidades Fechadas de Previdência Complementar (EFPC) e as Entidades"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.261,
+          "texto": "brasileiro está dividido nos seguintes segmentos: • O Regime Geral da Previdência Social (RGPS), administrado pelo Instituto Nacional do Seguro Social (INSS), em que estão alocados os trabalhadores da iniciativa privada, com carteira assinada, ou seja, aqueles contratados nos termos da Consolidação das Leis do Trabalho (CLT). Além desses, estão também no RGPS os trabalhadores domésticos e os"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.325,
+          "texto": "RGPS, administrado pelo INSS; e a empresa é obrigada a recolher as contribuições (parte do empregado e parte patronal) diretamente para o INSS. Conheça mais acessando o link https://www.gov.br/previdencia. Já um servidor público federal está inscrito em um regime próprio de previdência social (exemplo: Contribuição para o Plano de Seguridade do Servidor Público – CPSS) e tem descontado em sua"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.376,
+          "texto": "São aqueles que não nos permitem escolher se vamos ou não fazer a contribuição. Eles são obrigatórios dependendo da situação em que nos encontramos no mercado de trabalho (exemplos: CLT, servidor público etc.). Uma pessoa que trabalhe em uma empresa privada com carteira assinada obrigatoriamente estará inscrita no RGPS, administrado pelo INSS; e a empresa é obrigada a recolher as contribuições"
+        }
+      ],
+      "tempo_s": 2.0
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual é a diferença conceitual entre \"Sonho\" e \"Projeto\"?",
+      "resposta": "De acordo com o documento [caderno_cidadania_financeira.pdf], a diferença conceitual entre \"Sonho\" e \"Projeto\" está no seguinte:\n\n\"Sonho É o desejo vivo, a aspiração, o anseio. Pode ser entendido como a ideia ou os objetivos que se quer alcançar.\n\nProjeto É o sonho colocado “no papel” para que possamos visualizar melhor os caminhos que devemos seguir para alcançá-los.\"",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.376,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.376,
+          "texto": "clara do caminho a ser percorrido entre o sonho e a sua concretização; seja porque é necessário pensar no assunto e assumir uma posição ativa para transformar os sonhos em projetos. Para melhor entender a diferença entre sonho e projeto, veja os quadros a seguir. Sonho É o desejo vivo, a aspiração, o anseio. Pode ser entendido como a ideia ou os objetivos que se quer alcançar. Projeto É o sonho"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.427,
+          "texto": "o uso do dinheiro do que realmente sabemos. 5 Sonhe. É importante para sua vida. Mas tão importante quanto sonhar é realizar. Transforme os sonhos em projetos: saiba onde quer chegar, internalize a visão de futuro, dimensione metas claras e objetivas, estabeleça etapas intermediárias e não se esqueça de compartilhar e comemorar cada etapa conquistada. 5 Faça escolhas equilibradas. Razão e emoção"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.435,
+          "texto": "de ginástica Restaurantes Calça de marca Viagem à praia SUMÁRIO 81 CADERNO DE EDUCAÇÃO FINANCEIRA EXERCÍCIOS 2) Aprendemos que sonho é o desejo vivo, a aspiração, o anseio. Pode ser entendido como a ideia ou ideal que se quer alcançar. Já o projeto é o sonho colocado “no papel” para que possamos visualizar melhor os caminhos que devemos seguir para alcançá-los. As alternativas abaixo descrevem as"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.477,
+          "texto": "O importante é verificar que você está no caminho certo para realização do seu sonho e comemorar. Seguindo esses passos, você pode aumentar bastante suas possibilidades de passar do posto de sonhador para o de realizador de sonhos. 1.3 Escolhas: equilíbrio entre emoção e razão Você já deve ter notado que a realização de sonhos não acontece por acaso, mas é fruto de escolhas que fazemos para"
+        }
+      ],
+      "tempo_s": 3.1
+    },
+    {
+      "id": 30,
+      "pergunta": "Quais são os três componentes fundamentais a serem analisados antes de realizar qualquer investimento?",
+      "resposta": "De acordo com o documento [caderno_cidadania_financeira.pdf], os três componentes fundamentais a serem analisados antes de realizar qualquer investimento são:\n\n1. Liquidez\n2. Risco (ou segurança)\n3. Rentabilidade",
+      "recusou": false,
+      "fontes": [
+        "GUIA planejamento financeiro.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.346,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.346,
+          "texto": "fazer um investimento que atenda às necessidades, é importante conhecer as três características dos investimentos: liquidez, risco (ou segurança) e rentabilidade. a) Liquidez é a possibilidade de o investimento ser transformado em dinheiro vivo a qualquer momento, por um preço justo. b) Risco é a probabilidade de ocorrência de perdas. Normalmente, quanto maior o risco, maior a probabilidade de o"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.355,
+          "texto": "O que você precisa saber antes de investir Antes de investir, é importante ter em mente que existe uma série de aspectos que influenciam na tomada de decisão por um investimento. O SEU PERFIL DE INVESTIDOR Na hora de investir, é importante conhecer as características dos investimentos disponíveis para que sua escolha seja a mais adequada para você. É importante ter em mente que as pessoas são"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.361,
+          "texto": "fundos de investimento e títulos de dívida privados podem ser consideradas. Já no que se refere às reservas para conquistas, o investimento mais adequado vai depen­ der do prazo em que se pretende atingir o objetivo, como também aos fatores de variação no preço do bem ou serviço que se deseja adquirir. Portanto, deve ser feita uma análise individual. Em qualquer situação, lembre-se de que"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.366,
+          "texto": "• Entender o conceito, as características e as principais modalidades de investimentos existentes, para que possa escolher as aplicações mais adequadas ao seu perfil e aos seus projetos. • Aprender a “pagar-se primeiro”, como estratégia de consolidação da poupança ativa. 6. Prevenção de riscos e proteção do patrimônio • Entender os riscos financeiros e quais as medidas de prevenção e proteção"
+        }
+      ],
+      "tempo_s": 1.6
+    },
+    {
+      "id": 31,
+      "pergunta": "O que é o Custo Efetivo Total (CET) nas operações de crédito e por que ele deve ser comparado?",
+      "resposta": "O Custo Efetivo Total (CET) é a soma dos juros, impostos, tarifas e outros encargos cobrados do cliente em um empréstimo ou financiamento. Ele representa o valor real que o cliente paga ao tomar um crédito.\n\nO CET deve ser comparado entre diferentes instituições financeiras porque ele permite que o cliente avalie de forma objetiva qual é a proposta mais vantajosa, considerando não apenas a taxa de juros, mas também outros encargos e custos associados ao empréstimo. Isso ajuda o cliente a tomar uma decisão informada sobre se o crédito é realmente necessário e se vale a pena pagar os encargos associados.\n\nAlém disso, comparar os CETs de diferentes instituições financeiras permite que o cliente encontre as melhores condições e evite pagar mais do que necessário.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.233,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.233,
+          "texto": "custa um empréstimo, ou financiamento, incluindo não só os juros, mas também tarifas, impostos e outros encargos cobrados do cliente. A vantagem do CET é a possibilidade de comparar o que duas ou mais instituições financeiras estão oferecendo e saber qual cobra menos pelo serviço. Assim, dependendo dos encargos cobrados por um banco em um empréstimo, seu CET pode acabar maior que o de outro banco,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.266,
+          "texto": "por um banco em um empréstimo, seu CET pode acabar maior que o de outro banco, mesmo tendo uma taxa de juros menor. Por exemplo, suponha um financiamento nas seguintes condições: • valor financiado: R$1 mil; • taxa de juros: 12% ao ano; • prazo da operação: 5 meses; • prestação mensal: R$205,73. Considere ainda que seja descontado do crédito o valor de R$60, referente à tarifa de confecção de"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.341,
+          "texto": "que a taxa de juros divulgada na operação, que foi de 12% ao ano. Ao tomar um empréstimo, simplesmente avaliar se o valor da prestação cabe no orçamento não é adequado. É fundamental avaliar a real necessidade do crédito, comparar o CET das propostas de crédito de duas ou mais instituições financeiras e estar ciente das desvantagens já citadas. Para entender melhor sobre as vantagens, as"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.345,
+          "texto": "futuras para o consumo. É a troca intertemporal. Ao utilizar o crédito, sempre verifique o seu custo. Compare os preços e custos do crédito. Pechinche! Faça o que for mais vantajoso para você. SUMÁRIO 37 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 3 Custo Efetivo Total O Custo Efetivo Total (CET) diz quanto efetivamente custa um empréstimo, ou financiamento, incluindo não só os juros, mas também"
+        }
+      ],
+      "tempo_s": 5.5
+    },
+    {
+      "id": 32,
+      "pergunta": "O que é orçamento?",
+      "resposta": "Segundo a Cartilha de Planejamento Financeiro Familiar da Caixa Econômica Federal (2009), o orçamento é uma forma de planejamento no qual se discriminam os valores referentes a receitas e despesas previstas para determinado período, servindo para fazer simulações e acompanhamento das contas da casa. É um dos mais importantes instrumentos de economia doméstica.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "Orçamento (Susesp).pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.207,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.207,
+          "texto": "FINANCEIRA MÓDULO 2 2.1 O que é orçamento? Orçamento pode ser visto como uma ferramenta de planejamento financeiro pessoal que contribui para a realização de sonhos e projetos. Para ter um bom planejamento, é necessário saber onde se quer chegar, internalizar a visão de futuro trazida pela perspectiva de realização do projeto e estabelecer metas claras e objetivas, as quais geralmente precisam de"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.236,
+          "texto": "com a cartilha de planejamento financeiro familiar da Caixa Econômica Federal (2009), Orçamento é uma forma de planejamento no qual se discriminam os valores referentes a receitas e despesas previstas para determinado período. Serve para fazer simulações e acompanhamento das contas da casa. É um dos mais importantes instrumentos de economia doméstica. A Cartilha de planejamento financeiro familiar"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.252,
+          "texto": "OU FAMILIAR, 22 2.1 O que é orçamento?, 23 2.2 Elaboração do orçamento, 24 2.3 Como elaborar um orçamento, 25 2.4 Gestão orçamentária, 27 2.5 Participação da família no orçamento, 29 Ponha em prática, 30 MÓDULO 3 – USO DO CRÉDITO E ADMINISTRAÇÃO DAS DÍVIDAS, 31 3.1 Definição de crédito, 32 3.2 Valor do dinheiro no tempo, 32 3.3 Atenção aos juros, 32 3.4 Uso do crédito, 35 3.5 Endividamento, 40"
+        },
+        {
+          "fonte": "Orçamento (Susesp).pdf",
+          "distancia": 0.255,
+          "texto": "e sites da Internet. Fique à vontade de utilizar aquilo que lhe dará mais segurança e conforto. Elaborar o orçamento é o primeiro passo para um planejamento financeiro eficiente. Simplesmente comece. Passo a passo: 1.​ Pense no período de tempo pelo qual deseja elaborar o seu orçamento. Ele pode ser diário, mensal ou misto (com despesas diárias e mensais). Se as suas receitas forem"
+        }
+      ],
+      "tempo_s": 2.6
+    },
+    {
+      "id": 33,
+      "pergunta": "Como elaborar um orçamento?",
+      "resposta": "Para elaborar um orçamento, é necessário seguir os passos abaixo:\n\n1.  Pense no período de tempo pelo qual deseja elaborar o seu orçamento. Ele pode ser diário, mensal ou misto (com despesas diárias e mensais).\n2.  Registre os diferentes tipos de receitas e despesas que sua família tem ou pretende ter, assim como as reservas financeiras que planeja incluir em seu orçamento.\n3.  Estipule um prazo para o seu planejamento. Cinco anos, dez anos, trinta anos. Essa decisão vai depender da sua situação financeira e objetivos pessoais.\n4.  Elabore o orçamento seguindo os passos abaixo:   a) Planejamento: defina suas prioridades e metas financeiras;   b) Registro: registre todas as suas receitas e despesas;   c) Agrupamento: agrupe as despesas em categorias (alimentação, moradia, transporte, etc.);   d) Revisão e ajuste: revise seu orçamento regularmente e faça ajustes conforme necessário.\n\nLembre-se de que a elaboração do orçamento é um processo contínuo e que é importante revisar e ajustar regularmente para garantir que você esteja atingindo seus objetivos financeiros.",
+      "recusou": false,
+      "fontes": [
+        "GUIA planejamento financeiro.pdf",
+        "Orçamento (Susesp).pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.151,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.151,
+          "texto": "FINANCEIRA MÓDULO 2 2.1 O que é orçamento? Orçamento pode ser visto como uma ferramenta de planejamento financeiro pessoal que contribui para a realização de sonhos e projetos. Para ter um bom planejamento, é necessário saber onde se quer chegar, internalizar a visão de futuro trazida pela perspectiva de realização do projeto e estabelecer metas claras e objetivas, as quais geralmente precisam de"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.158,
+          "texto": "PARA OS PERÍODOS SEGUINTES. A melhor forma para criar o orçamento é fazer uma tabela. Registre os diferentes tipos de receitas e despesas que sua família tem ou pretende ter, assim como as reservas financeiras que planeja incluir em seu orçamento, conforme esti­ mado nos passos anteriores. Estipule um prazo para o seu planejamento. Cinco anos, dez anos, trinta anos. Essa decisão vai depender da"
+        },
+        {
+          "fonte": "Orçamento (Susesp).pdf",
+          "distancia": 0.164,
+          "texto": "e sites da Internet. Fique à vontade de utilizar aquilo que lhe dará mais segurança e conforto. Elaborar o orçamento é o primeiro passo para um planejamento financeiro eficiente. Simplesmente comece. Passo a passo: 1.​ Pense no período de tempo pelo qual deseja elaborar o seu orçamento. Ele pode ser diário, mensal ou misto (com despesas diárias e mensais). Se as suas receitas forem"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.182,
+          "texto": "Na elaboração do orçamento, é necessário organizar e planejar suas despesas, com o objetivo de gastar bem o seu dinheiro, suprir suas necessidades e ainda realizar sonhos e atingir metas, de acordo com as prioridades definidas. O PROCESSO DE ELABORAÇÃO Existe mais de uma maneira de elaborar um orçamento. Vamos sugerir a seguir um método em quatro etapas: planejamento, registro, agrupamento e"
+        }
+      ],
+      "tempo_s": 9.9
+    },
+    {
+      "id": 34,
+      "pergunta": "O que eu preciso saber antes de investir?",
+      "resposta": "Antes de investir, é importante conhecer as características dos investimentos disponíveis para que sua escolha seja a mais adequada para você. É fundamental entender o seu perfil de investidor, ou seja, ter em mente:\n\n*   O que eu preciso saber antes de investir? \n*   O que esperar\n*   Minha riqueza é positiva ou negativa?\n*   Meus ativos geram receitas ou despesas?\n*   Os que geram receita estão rendendo quanto de juros ou dividendos?\n*   E qual o risco desses investimentos?",
+      "recusou": false,
+      "fontes": [
+        "FLUXODECAIXA.pdf",
+        "GUIA planejamento financeiro.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.206,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.206,
+          "texto": "O que você precisa saber antes de investir Antes de investir, é importante ter em mente que existe uma série de aspectos que influenciam na tomada de decisão por um investimento. O SEU PERFIL DE INVESTIDOR Na hora de investir, é importante conhecer as características dos investimentos disponíveis para que sua escolha seja a mais adequada para você. É importante ter em mente que as pessoas são"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.389,
+          "texto": "aproveite para anotar informações detalhadas sobre cada um dos itens: como condições de remuneração, juros, prazos, carências, taxas de administração e outras informações que julgar importantes. o que esperar o que esperar Minha riqueza é positiva ou negativa? Meus ativos geram receitas ou despesas? Os que geram receita estão rendendo quanto de juros ou dividendos? E qual o risco desses"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.394,
+          "texto": "• Entender o conceito, as características e as principais modalidades de investimentos existentes, para que possa escolher as aplicações mais adequadas ao seu perfil e aos seus projetos. • Aprender a “pagar-se primeiro”, como estratégia de consolidação da poupança ativa. 6. Prevenção de riscos e proteção do patrimônio • Entender os riscos financeiros e quais as medidas de prevenção e proteção"
+        },
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.396,
+          "texto": "No mercado existem inúmeras opções de investimentos, das mais simples e acessíveisá população em geral, e vai depender do que o investidor está buscando para poder dizer o que é ou não a melhor opção. Podemos citar como exemplos para o invesidor, a poupança, o tesouro direto, o CDB, fundos de ações, etc. Ao buscar um investimento o investidor deverá ter consciênca que não encontrará nada que lhe"
+        }
+      ],
+      "tempo_s": 4.2
+    },
+    {
+      "id": 35,
+      "pergunta": "Por que a educação financeira é importante?",
+      "resposta": "A educação financeira é importante porque permite fazer julgamentos inteligentes e tomar decisões eficazes em relação ao uso e gestão do dinheiro, como mencionado por Gallery et al. (2011, p.288). Além disso, segundo a Organização de Cooperação e Desenvolvimento Econômico – OCDE (2005), a educação financeira é definida como o processo pelo qual os indivíduos e as famílias adquirem conhecimentos e habilidades para tomar decisões financeiras informadas.",
+      "recusou": false,
+      "fontes": [
+        "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.115,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.115,
+          "texto": "são necessários, como demonstrado a seguir. 7 CADERNO DE EDUCAÇÃO FINANCEIRA A educação financeira é o meio de promover comportamentos que contribuem para melhorar o exercício da cidadania financeira e o bem-estar financeiro das pessoas. Fonte: G20 Policy Note on Financial Well-Being, adaptado A educação financeira é também um instrumento para promover o desenvolvimento econômico. Afinal, a"
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.137,
+          "texto": "de instrução financeira pode acarretar em problemas econômicos que afetam a vida de uma pessoa, uma família e em maior amplitude, de uma sociedade. O que se deve entender é que educação financeira não se trata de deixar de comprar o que gosta, ou de não fazer a viagem que se quer para guardar dinheiro ou, como muitos falam, de guardar dinheiro a vida toda para depois morrer e deixar para os"
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.139,
+          "texto": "de texto e compartilhamento de terceiros. Discussão e Resultados Importância da educação financeira pessoal Primeiramente devemos entender qual a importância de se ter uma educação financeira pessoal hoje, como já foi dito anteriormente, estamos inseridos em um sistema econômico e social denominado capitalista, ou seja, está diretamente relacionado ao uso do dinheiro. A importância é tanta e pesa"
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.155,
+          "texto": "Vejamos agora o que significa educação financeira, Segundo Gallery et al. (2011, p.288), educação financeira é \"a capacidade de fazer julgamentos inteligentes e decisões eficazes em relação ao uso e gestão do dinheiro”. Já segundo a Organização de Cooperação e Desenvolvimento Econômico – OCDE (2005) educação financeira pode ser definida como: [...] o processo mediante o qual os indivíduos e as"
+        }
+      ],
+      "tempo_s": 3.8
+    },
+    {
+      "id": 36,
+      "pergunta": "Quais são os passos fundamentais para alcançar a estabilidade e o bem-estar financeiro?",
+      "resposta": "Segundo [GUIA planejamento financeiro.pdf], os passos fundamentais para alcançar a estabilidade e o bem-estar financeiro incluem:\n\n1. Definir metas claras e realistas: é importante identificar quais são as necessidades e desejos financeiros da família ou indivíduo.\n2. Estabelecer um orçamento: criar um plano detalhado de receita e despesa para gerenciar os recursos financeiros.\n3. Priorizar gastos: identificar os gastos essenciais e não essenciais, e priorizar os primeiros.\n4. Criar reservas de emergência: estabelecer fundos para cobrir despesas inesperadas ou imprevistas.\n5. Planejar para a aposentadoria: criar um plano para garantir uma renda sustentável após a aposentadoria.\n6. Monitorar e ajustar: realizar revisões periódicas do orçamento e das metas para garantir que estejam alinhadas com as necessidades e desejos financeiros.\n\nAlém disso, é importante lembrar que o planejamento financeiro é um processo contínuo que requer perseverança e paciência. É fundamental revisar a meta ou gastar menos se necessário, para alcançar a estabilidade e o bem-estar financeiro.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "FLUXODECAIXA.pdf",
+        "GUIA planejamento financeiro.pdf"
+      ],
+      "melhor_distancia": 0.366,
+      "recuperados": [
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.366,
+          "texto": "en general no tiene el hábito de ahorrar y la situación financiera se vuelve más difícil cuando se encuentra con bajos salarios y altos precios. En este contexto, cómo realizar una planificación financiera personal que viabilice concretar deseos y necesidades del día a día de forma eficiente y económicamente estable. De esta forma con esta investigación se pretende proponer un modelo de"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.37,
+          "texto": "para alcançá-las [...] depois de definidas as metas, estas podem sofrer alterações. Faz parte do planejamento realizar revisões periódicas. Um planejamento financeiro tem relevante importância para a família que quer economizar, organizar, administrar e controlar suas finanças, quando é bem elaborado auxilia o indivíduo a controlar melhor seus gastos futuros, ajudando assim na economia dos ganhos"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.376,
+          "texto": "O que posso fazer para incluir em meu orçamento as reservas de emergências, de aposen­ tadoria e também para outras conquistas? 16 PARABÉNS! Se você seguiu todos estes passos, então você tem em mãos um poderoso aliado para lhe ajudar a atingir seus objetivos: o seu planejamento financeiro. Agora é com você. Para colocá-lo em prática, você precisará de perseverança e paciência. Perseverança para"
+        },
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.378,
+          "texto": "Afinal, se todos os meses o planejamento financeiro estoura, provavelmente você deve revisar a sua meta (ou gastar menos). O Planejamento Financeiro Pessoal e Familiar tem como objetivo auxiliar a criar uma estratégia precisa para acumulação de bens e valores que irão formar o patrimônio de uma pessoa ou de uma família ajudando-as a arquitetar um Projeto de Vida para a conquista de etapas"
+        }
+      ],
+      "tempo_s": 10.3
+    },
+    {
+      "id": 37,
+      "pergunta": "O que é o orçamento pessoal ou familiar e qual o primeiro passo para elaborá-lo?",
+      "resposta": "O orçamento pessoal ou familiar é um plano financeiro que visa controlar as despesas e maximizar a poupança, com o objetivo de alcançar metas financeiras a curto, médio ou longo prazo.\n\nO primeiro passo para elaborar um orçamento pessoal ou familiar é registrar tudo que você (ou sua família) ganha e gasta durante um período, geralmente um mês ou um ano.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.133,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.133,
+          "texto": "COMO INICIAR O orçamento pessoal (ou familiar) deve ser iniciado a partir do registro de tudo que você (ou sua família) ganha e gasta durante um período, em geral um mês ou um ano. Para simplificar um pouco, vamos tratar do orçamento pessoal, mas tudo que falarmos daqui em diante também vale para o orçamento familiar. Na elaboração do orçamento, é necessário organizar e planejar suas despesas, com"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.214,
+          "texto": "superem as despesas, para que você possa formar uma poupança, investindo seu superávit financeiro de modo a ter recursos suficientes para eventuais emergências, realizar sonhos, preparar sua aposentadoria etc. RECEITAS DESPESAS POUPANÇA - = SUMÁRIO 25 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 2 2.3 Como elaborar um orçamento COMO INICIAR O orçamento pessoal (ou familiar) deve ser iniciado a partir do"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.224,
+          "texto": "essential to have a well-founded family budget management that aims to improve control over the income and expenses of a family or individual, thus helping in the preparation of plans to achieve pre-established goals. short, medium or long term. Therefore, the results of this research show the knowledge acquired in basic education about personal and family budget management in public higher"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.23,
+          "texto": "muitas e é preciso uma grande força de vontade e o envolvimento consciente de todas as pessoas da casa. (EWALD, 2004, p. 12). 21 Um orçamento doméstico auxilia bastante no controle de gastos de uma família, pode se elaborar uma planilha para listar as despesas e as receitas familiares dividindo-as em grupos como as essenciais que são alimentação, água, energia, moradia, saúde, educação e"
+        }
+      ],
+      "tempo_s": 3.5
+    },
+    {
+      "id": 38,
+      "pergunta": "Quais as diferenças entre receitas e despesas em fixas, variáveis e eventuais?",
+      "resposta": "Não encontrei essa informação nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.271,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.271,
+          "texto": "Receitas variáveis São aquelas cujos valores variam de um mês para o outro, como os ganhos de comissões por vendas ou os ganhos com aulas particulares. Despesas fixas São despesas que não variam ou variam muito pouco, como o aluguel, a prestação de um financiamento etc. Despesas variáveis São aquelas cujos valores variam de um mês para o outro, como a conta de luz ou de água, que variam conforme o"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.294,
+          "texto": "base para prever as receitas e as despesas futuras. Veja algumas sugestões para auxiliá-lo(a) nesta etapa. Diferencie as receitas e despesas fixas das variáveis Receitas fixas Como o próprio nome diz, são receitas que não variam ou variam muito pouco, como o valor do salário, da aposentadoria ou de rendimentos de aluguel. Receitas variáveis São aquelas cujos valores variam de um mês para o outro,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.368,
+          "texto": "que consiste em estimar as receitas e as despesas do período. b) Na 2ª etapa do registro, é necessário anotar frequentemente, preferencialmente em base diária, todas as receitas e despesas. c) Na 3ª etapa, as anotações devem ser agrupadas por tipos de despesas, como alimentação, habitação, transporte e lazer. d) Na 4ª etapa, é o momento para refletir sobre se seu orçamento foi superavitário,"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.374,
+          "texto": "que adquirir. Por outro lado, pode acontecer de o preço do produto ou serviço aumentar, tornando-se mais cara a sua aquisição. Pode acontecer também de o produto ou serviço não estar mais disponível daqui a quatro meses. Por isso, é importante considerar os diversos aspectos envolvidos na escolha intertemporal, além do pagamento de juros ou do recebimento de rendimentos. SUMÁRIO 19 CADERNO DE"
+        }
+      ],
+      "tempo_s": 0.6
+    },
+    {
+      "id": 39,
+      "pergunta": "Qual é a porcentagem mensal recomendada para poupar e o que significa a regra do \"pague-se primeiro\"?",
+      "resposta": "Não encontrei essa informação nos documentos.",
+      "recusou": true,
+      "fontes": [],
+      "melhor_distancia": 0.344,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.344,
+          "texto": "aproximados de R$150 mil, pois um depositou durante dez, enquanto a outra pessoa, durante trinta anos. ( ) O primeiro jovem foi beneficiado pelos efeitos no tempo da antecipação de poupança. ( ) As duas afirmações estão incorretas, já que os cálculos estão errados. 3) Sabemos que juros simples são aqueles pagos somente sobre o capital principal e que juros compostos são aqueles que, após cada"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.347,
+          "texto": "você antecipou o seu consumo, terá de pagar prestações de valor maior do que R$100 por mês ou pagar um número maior de prestações de R$100 do que se tivesse decidido poupar primeiro para depois comprar o produto. SUMÁRIO 18 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 1 Agora, imagine outra situação. Desejo Você deseja comprar o mesmo produto que custa R$1 mil, verifica a sua conta e percebe que possui"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.353,
+          "texto": "20%, 13% poupa 20% a 30%e so 11% dos entrevistados consegue poupar mais de 30%, entretanto 26% não conseguem poupar nada e acabam se endividando. O simples ato de fazer anotações, já é um passo importante para se ter controle do orçamento mensal, Conforme Macedo Junior (2010, p. 36) “Quando as pessoas começam a anotar os gastos, já costumam reduzi-los em cerca de 12%. Isso acontece porque o ato de"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.366,
+          "texto": "moedas paradas em cofrinhos por muito tempo. SUMÁRIO 58 CADERNO DE EDUCAÇÃO FINANCEIRA Módulo 5 Poupança Ativa e Investimento 59 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO 5 5.1 Por que poupar? Ao poupar, você acumula valores financeiros no presente para serem utilizados no futuro. Os valores poupados no presente e investidos durante um mês, um ano, uma década, uma vida inteira poderão fazer uma"
+        }
+      ],
+      "tempo_s": 0.5
+    },
+    {
+      "id": 40,
+      "pergunta": "Qual é a função da reserva de emergência e como o valor sugerido varia conforme a estabilidade da renda?",
+      "resposta": "De acordo com o documento [GUIA planejamento financeiro.pdf], a reserva para emergências serve como um \"colchão\" para nos proteger financeiramente diante de situações inesperadas. Em outras palavras, é uma reserva que ajuda a cobrir despesas imprevistas ou emergências.\n\nO valor sugerido da reserva para emergências varia conforme a estabilidade da renda. Não há um valor específico mencionado no documento, mas sim uma orientação de concentrar inicialmente toda a capacidade de poupança nessa reserva, mantendo-a após atingido o valor desejado.\n\nEm outras palavras, se você tem uma renda estável e previsível, pode começar com um valor mais alto na reserva para emergências. Já se sua renda for imprevisível ou tiver flutuações significativas, é melhor começar com um valor mais baixo e aumentá-lo ao longo do tempo.\n\nLembre-se de que a reserva para emergências não é suficiente para lidar com todos os riscos financeiros. Para isso, existem seguros, e é importante discutir esse assunto com um profissional especializado.",
+      "recusou": false,
+      "fontes": [
+        "GUIA planejamento financeiro.pdf"
+      ],
+      "melhor_distancia": 0.296,
+      "recuperados": [
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.296,
+          "texto": "não prejudicar seus planos. Lembre-se de que a reserva para emergências e para aposentadoria são muito importantes. No entanto, depois de atingido o valor desejado para a reserva de emergências, ela será mantida, mas não serão mais necessários depósitos, abrindo espaço para outras conquistas. Converse com sua família sobre o orçamento. É importante que todos entendam a necessi­ dade e a"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.306,
+          "texto": "de emergências. Sugerimos que concentre inicialmente toda a sua capacidade de poupança nessa reserva. PASSO 3 Prepare-se para emergências 9 9 IDEIAS IDEIAS o que esperar o que esperar É aconselhável que os recursos destinados à reserva para emergências sejam mantidos em investimentos de baixo risco e que possam ser resgatados com facilidade, em caso de necessidade. Programe-se para recompor a"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.306,
+          "texto": "resgatados com facilidade, em caso de necessidade. Programe-se para recompor a reserva para emergências após utilizá-la. Nesta etapa estimamos o montante de recursos necessários para cobrir nosso custo de vida por determinado período, caso surjam emergências. A reserva para emergências serve como um “colchão” para nos proteger financeiramente diante de situações inesperadas. para pensar para"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.348,
+          "texto": "A reserva para emergências não é suficiente e nem mesmo indicada para lidar com todos esses riscos. Para isso, existem seguros. Sugerimos que discuta so­ bre esse assunto com profissional especializado. Caso queira, pesquise mais informações em www.susep.gov.br. 10 10 IMPORTANTE IMPORTANTE Seja realista na determinação das despesas, de acordo com o padrão de vida que deseja manter. Não"
+        }
+      ],
+      "tempo_s": 9.4
+    },
+    {
+      "id": 41,
+      "pergunta": "Quais são os passos recomendados para quem está com o orçamento no vermelho (resultado negativo) e precisa quitar dívidas?",
+      "resposta": "Segundo o documento [caderno_cidadania_financeira.pdf], os passos recomendados para quem está com o orçamento no vermelho e precisa quitar dívidas são:\n\n1. Tomar consciência da situação: Reconhecer que se encontra em uma condição de endividamento excessivo e que é preciso resolver essa situação.\n2. Identificar compromissos financeiros: Procure identificar todos os compromissos financeiros, incluindo prestações a pagar.\n3. Controlar os gastos: Atentos às prestações, controlar de perto os gastos para evitar o acúmulo de contas e descontrole do orçamento.\n4. Reservar dinheiro: Reservar dinheiro para quitar as dívidas programadas.\n5. Buscar alternativas: Se o endividamento excessivo for uma realidade, buscar alternativas para sair dele.\n\nEsses passos podem ajudar a quem está com o orçamento no vermelho e precisa quitar dívidas.",
+      "recusou": false,
+      "fontes": [
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.246,
+      "recuperados": [
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.246,
+          "texto": "as dívidas em primeiro lugar Gerar renda extra Muitas vezes nosso orçamento já está no limite suportável e, ainda assim, encontra-se deficitário. Cortamos todos os desperdícios, minimizamos os supérfluos, otimizamos o consumo do que é necessário e ainda assim estamos no vermelho. Pode ser o momento de avaliarmos uma alternativa de ampliar a nossa renda. Se esse é o seu caso, procure identificar"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.248,
+          "texto": "compromissos financeiros. Vejamos alguns passos que vão te ajudar a sair de uma situação de endividamento excessivo, caso isso venha a acontecer. Tomar consciência da situação Termos a consciência de que nos encontramos em uma condição de endividamento excessivo e de que é preciso resolvermos essa situação é um passo fundamental para a saída do endividamento. Não podemos apenas nos conformar com a"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.294,
+          "texto": "mesmo com prestações a pagar, as dívidas programadas serão quitadas com o dinheiro que reservamos para isso. É essencial reconhecermos que é comum deixarmos, durante o mês, muitas coisas para pagamento futuro. Daí a importância de controlar de perto os gastos, atentos às prestações, para que o acúmulo de contas não leve ao descontrole do orçamento. SUMÁRIO 41 CADERNO DE EDUCAÇÃO FINANCEIRA MÓDULO"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.3,
+          "texto": "familiar. Tomar os cuidados para não cair no endividamento pode evitar esses dissabores financeiros e morais. Porém, se o endividamento excessivo, ou até mesmo o superendividamento já é uma realidade, a opção é buscar alternativas para sair dele. Como sair das dívidas Se já estivermos em uma situação de endividamento excessivo, existem meios de nos livrarmos dessa situação? A boa notícia é que"
+        }
+      ],
+      "tempo_s": 8.5
+    },
+    {
+      "id": 42,
+      "pergunta": "O que é a \"Pink Tax\" (taxa rosa)?",
+      "resposta": "A \"Pink Tax\" (taxa rosa) é uma prática de mercado que cobra mais caro por produtos e serviços voltados ao público feminino. Não é uma taxa oficial, mas sim uma estratégia de mercado que resulta em custos acumulados que sabotam a liberdade financeira das mulheres.",
+      "recusou": false,
+      "fontes": [
+        "O preço invisível de ser mulher (e como parar de pagar por isso).pdf"
+      ],
+      "melhor_distancia": 0.206,
+      "recuperados": [
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.206,
+          "texto": "nada fofa da Pink Tax – a famosa “taxa rosa”. Mas calma: você não recebeu nenhum boleto extra por nascer mulher. A tal “taxa” nem é oficial. Ela é uma prática de mercado, e a conta é mais salgada do que parece. O que é Pink Tax? A Pink Tax é o nome bonitinho (só que não) de uma estratégia de mercado que cobra mais caro por produtos e serviços voltados ao público feminino. E não, não é drama. Uma"
+        },
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.267,
+          "texto": "coisa rara pra quem vive pagando o preço de existir de sobrancelhas feitas. Pink é só uma cor. Seu dinheiro, não. A Pink Tax não é comprar um batom a mais. É sobre como pequenos custos acumulados sabotam a nossa liberdade financeira. Então antes de cair no golpe da embalagem fofa, se pergunte:​ “Isso aqui me aproxima ou me afasta da vida que eu quero construir?” Porque no fim do mês, a diferença"
+        },
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.517,
+          "texto": "O preço invisível de ser mulher (e como parar de pagar por isso) Você já reparou que a lâmina de barbear rosa custa mais que a azul? Que o desodorante “feminino” vem com metade da fórmula e o dobro do preço? E que cortar cabelo “de mulher” é quase um investimento de renda fixa? Pois é… seja bem-vinda à realidade nada fofa da Pink Tax – a famosa “taxa rosa”. Mas calma: você não recebeu nenhum"
+        },
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.538,
+          "texto": "ou me afasta da vida que eu quero construir?” Porque no fim do mês, a diferença entre a lâmina azul e a rosa parece pequena, mas quem depila à cera a sua conta bancária… são as decisões erradas. Ouch! Doeu aí? Você já parou para calcular quanto gasta em pequenas compras diárias, como cafés, lanches e aplicativos de entrega? Somando tudo, pode ser um valor significativo no fim do mês! Fontes"
+        }
+      ],
+      "tempo_s": 2.7
+    },
+    {
+      "id": 43,
+      "pergunta": "Quais são os principais fatores que levam o mercado a praticar preços mais altos para o público feminino?",
+      "resposta": "Segundo o texto, os principais fatores que levam o mercado a praticar preços mais altos para o público feminino incluem:\n\n* A suposição cruel e conveniente de que as mulheres aceitam pagar mais;\n* Publicidade segmentada (\"essa escova foi feita especialmente para você, mulher única e maravilhosa\");\n* Pressões estéticas disfarçadas de autocuidado;\n* O marketing de sedução, visando influenciar o consumidor em suas decisões de compra.\n* A sensação de ganho extra com ofertas como \"Compre 1, Leve 2\";\n* Preços e descontos \"extraordinários\" que podem estar inflados para simular uma promoção.",
+      "recusou": false,
+      "fontes": [
+        "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.358,
+      "recuperados": [
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.358,
+          "texto": "por produtos e serviços voltados ao público feminino. E não, não é drama. Uma pesquisa da ESPM mostrou que nós mulheres, pagamos em média, 12,3% a mais por itens que são IGUAIS aos masculinos. A única diferença? A cor. Ou o glitter. Ou o estereótipo. ●​ Brinquedos? 26% mais caros – porque bonecas aparentemente têm MBA em economia inflacionária; ●​ Roupas infantis “de menina”? 23% a mais – tule"
+        },
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.367,
+          "texto": "menos, pagamos mais e ainda ouvimos que a gente “gasta demais”. Ah, tá bom. Por que isso acontece? O mercado parte de uma suposição cruel e muito conveniente: a de que a gente aceita pagar mais. E às vezes, sem nem perceber… aceita mesmo. Entre publicidade segmentada (“essa escova foi feita especialmente para você, mulher única e maravilhosa”), pressões estéticas disfarçadas de autocuidado, e a"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.372,
+          "texto": "despertar o lado emocional e irracional do consumidor. O marketing de sedução, visando influenciar o consumidor em suas decisões de compra, ao mesmo tempo que impulsiona as vendas, também impulsiona compras não planejadas ou realizadas por impulso. Isso frequentemente provoca desequilíbrios orçamentários, ou até mesmo endividamento excessivo de quem não segue seu próprio planejamento financeiro e"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.416,
+          "texto": "é comum ver o preço antigo riscado para valorizar o novo. • Ofertas “Compre 1, Leve 2”: a sensação de ganho extra incentiva o consumidor a aproveitar a promoção, mesmo sem necessidade real. • Preços e descontos “extraordinários”: campanhas anunciam “descontos imperdíveis” ou “parcelas que cabem no bolso”, mas o preço final pode estar inflado em relação ao original, apenas para simular uma"
+        }
+      ],
+      "tempo_s": 6.1
+    },
+    {
+      "id": 44,
+      "pergunta": "Como escapar da Pink Tax?",
+      "resposta": "Segundo o texto, para escapar da Pink Tax, é necessário:\n\n1.​ Compare preços de forma ampla. Se só muda a cor, não tem motivo pra pagar mais. Produtos neutros (ou “masculinos”) funcionam igual, muitas vezes por menos.\n\nEssa é a estratégia apresentada no texto para ajudar as mulheres a evitar pagar mais do que os homens por produtos e serviços semelhantes.",
+      "recusou": false,
+      "fontes": [
+        "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.233,
+      "recuperados": [
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.233,
+          "texto": "nada fofa da Pink Tax – a famosa “taxa rosa”. Mas calma: você não recebeu nenhum boleto extra por nascer mulher. A tal “taxa” nem é oficial. Ela é uma prática de mercado, e a conta é mais salgada do que parece. O que é Pink Tax? A Pink Tax é o nome bonitinho (só que não) de uma estratégia de mercado que cobra mais caro por produtos e serviços voltados ao público feminino. E não, não é drama. Uma"
+        },
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.252,
+          "texto": "coisa rara pra quem vive pagando o preço de existir de sobrancelhas feitas. Pink é só uma cor. Seu dinheiro, não. A Pink Tax não é comprar um batom a mais. É sobre como pequenos custos acumulados sabotam a nossa liberdade financeira. Então antes de cair no golpe da embalagem fofa, se pergunte:​ “Isso aqui me aproxima ou me afasta da vida que eu quero construir?” Porque no fim do mês, a diferença"
+        },
+        {
+          "fonte": "O preço invisível de ser mulher (e como parar de pagar por isso).pdf",
+          "distancia": 0.386,
+          "texto": "fazer pagar mais com consistência global. Ok, mas como então fazer escolhas mais inteligentes? Primeiro: a culpa não é sua. Mas com informação vem o poder. E com o poder… vem o Pix. Então, pega sua lâmina rosa (ou não) e vamos cortar a Pink Tax da sua vida: 1.​ Compare preços de forma ampla. Se só muda a cor, não tem motivo pra pagar mais. Produtos neutros (ou “masculinos”) funcionam igual, muitas"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.485,
+          "texto": "recebido é tributado de acordo com a tabela progressiva do imposto de renda. CUIDADO com apostas, bets, loterias, jogos de cartas, roleta, bingo. Nenhuma dessas opções é modalidade de investimento! Para que seu dinheiro se multiplique nesse tipo de apostas ou jogos, você precisa contar com a sorte. Para vencer e recuperar seu dinheiro, você depende de seu palpite. Se não acertar, não apenas deixa"
+        }
+      ],
+      "tempo_s": 4.7
+    },
+    {
+      "id": 45,
+      "pergunta": "Quais são os 4 pilares da educação financeira?",
+      "resposta": "Segundo o documento [afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf], os 4 pilares da educação financeira são:\n\n1. Controle seu Orçamento;\n2. Conheça as suas dívidas;\n3. Realize seus sonhos; e\n4. Aprenda a investir.\n\nEssa informação é citada de acordo com Braunstein e Welch (2002).",
+      "recusou": false,
+      "fontes": [
+        "FINANÇAS PESSOAIS.pdf",
+        "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.159,
+      "recuperados": [
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.159,
+          "texto": "conscientemente” são cursos simples de fácil entendimento que abre os olhos sobre a educação financeira. Nesses cursos se ensina que a educação financeira tem 4 pilares ou atitudes que são: Controle seu Orçamento; Conheça as suas dívidas; Realize seus sonhos; Aprenda a investir. Para quem não acreditava um dos pilares da educação financeira é realizar seus sonhos Segundo Braunstein e Welch (2002)"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.192,
+          "texto": "são necessários, como demonstrado a seguir. 7 CADERNO DE EDUCAÇÃO FINANCEIRA A educação financeira é o meio de promover comportamentos que contribuem para melhorar o exercício da cidadania financeira e o bem-estar financeiro das pessoas. Fonte: G20 Policy Note on Financial Well-Being, adaptado A educação financeira é também um instrumento para promover o desenvolvimento econômico. Afinal, a"
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.208,
+          "texto": "Vejamos agora o que significa educação financeira, Segundo Gallery et al. (2011, p.288), educação financeira é \"a capacidade de fazer julgamentos inteligentes e decisões eficazes em relação ao uso e gestão do dinheiro”. Já segundo a Organização de Cooperação e Desenvolvimento Econômico – OCDE (2005) educação financeira pode ser definida como: [...] o processo mediante o qual os indivíduos e as"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.227,
+          "texto": "et al. (2017), a educação financeira pode ser definida como a capacidade de realizar um planejamento financeiro baseado em leituras e interpretação de números, sendo que esse planejamento poderá contribuir para o equilíbrio das finanças pessoais e tornar as pessoas mais conscientes quanto ao uso do seu dinheiro. Saber administrar a vida financeira pessoal, principalmente no cenário atual de"
+        }
+      ],
+      "tempo_s": 3.8
+    },
+    {
+      "id": 46,
+      "pergunta": "O que é a Estratégia Nacional de Educação Financeira (ENEF) e por que ela foi instituída pelo governo brasileiro?",
+      "resposta": "A Estratégia Nacional de Educação Financeira (Enef) é uma mobilização multissetorial em torno da promoção de ações de educação financeira no Brasil. Ela foi instituída como política de financeiro pelo Governo Federal, através do Decreto 7.397/2010, com o intuito de promover ações para melhorar o acesso à educação financeira pessoal no país.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.143,
+      "recuperados": [
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.143,
+          "texto": "Universidade Católica de São Paulo o intuito de promover ações para melhorar o acesso à educação financeira pessoal no país, a estratégia é denominada Estratégia Nacional de Educação Financeira – ENEF criada através do decreto 7.397/2010 e se trata de: [...] uma mobilização multissetorial em torno da promoção de ações de educação financeira no Brasil. A estratégia foi instituída como política de"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.226,
+          "texto": "financeiro. Como se pode perceber, a educação financeira da população é muito importante para toda a sociedade. Por esse motivo, o Governo Federal, por meio do Decreto 7.397, de 22 de dezembro de 2010, instituiu a Estratégia Nacional de Educação Financeira (Enef), sendo posteriormente atualizada pelo Decreto 10.393, de 9 de junho de 2020. Alinhada a essa estratégia, o BC reestruturou iniciativas,"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.269,
+          "texto": "nas decisões econômicas dos indivíduos. Paraná, UEP, p. 15, 2013. BRASIL. Conceito de Educação Financeira no Brasil. Disponível em: <https://www.vidaedinheiro.gov.br/es/educacao-financeira-no-brasil/>. Acesso em 23 de agosto de 2021 as 16:14. CERBASI, G. Como organizar sua vida financeira. Rio de Janeiro: Editora Sextante, 2015. CERBASI, Gustavo. Dinheiro: os segredos de quem têm. São Paulo."
+        },
+        {
+          "fonte": "afcsanto,+Gerente+da+revista,+33268-90078-1-SM_formatados.pdf",
+          "distancia": 0.269,
+          "texto": "Com vista nisso o SPC Brasil, instituiu uma cartilha com uma pesquisa feita em 2015 intitulada “PESQUISA EDUCAÇÃO FINANCEIRA Orçamento Pessoal e Conhecimentos Financeiros” onde apresentou diversos dados de pesquisas sobre os conhecimentos da educação financeira no Brasil, nessa cartilha foi apresentada que 37% dos brasileiros reconhecem que sua vida financeira não é organizada. E ainda quando"
+        }
+      ],
+      "tempo_s": 3.6
+    },
+    {
+      "id": 47,
+      "pergunta": "De que forma o orçamento pessoal ou familiar atua no planejamento financeiro?",
+      "resposta": "De acordo com a Cartilha de Planejamento Financeiro Familiar da Caixa Econômica Federal (2009), o orçamento pessoal ou familiar atua no planejamento financeiro discriminando os valores referentes às receitas e despesas previstas para determinado período. Isso permite fazer simulações e acompanhamento das contas da casa, tornando-se um dos mais importantes instrumentos de economia doméstica. Além disso, o registro das receitas e despesas previstas pela família ajuda a organizar os gastos e a planejar as ações futuras.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "FLUXODECAIXA.pdf",
+        "GUIA planejamento financeiro.pdf"
+      ],
+      "melhor_distancia": 0.158,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.158,
+          "texto": "com a cartilha de planejamento financeiro familiar da Caixa Econômica Federal (2009), Orçamento é uma forma de planejamento no qual se discriminam os valores referentes a receitas e despesas previstas para determinado período. Serve para fazer simulações e acompanhamento das contas da casa. É um dos mais importantes instrumentos de economia doméstica. A Cartilha de planejamento financeiro familiar"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.163,
+          "texto": "apenas no cartão e os outros 3% não sabem. Na esfera familiar a organização dos gastos consiste no registro das receitas e despesas previstas pela família, tendo que ser organizado de forma que todos os tipos de gastos e aquisições financeiras do período sejam abrangidos para que se possa planejar as ações futuras (PEIXE; LEHNHARD; HARRES, 2000). 33 Gráfico 10 – Planilha de orçamento"
+        },
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.17,
+          "texto": "Afinal, se todos os meses o planejamento financeiro estoura, provavelmente você deve revisar a sua meta (ou gastar menos). O Planejamento Financeiro Pessoal e Familiar tem como objetivo auxiliar a criar uma estratégia precisa para acumulação de bens e valores que irão formar o patrimônio de uma pessoa ou de uma família ajudando-as a arquitetar um Projeto de Vida para a conquista de etapas"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.181,
+          "texto": "desnecessários. O pagamen­ to de juros é uma despesa a mais, que acaba dificultando que as famílias sigam o orçamen­ to planejado. Oriente-se e informe-se sobre as opções de investimento para cada tipo de objetivo e reser­ va. Busque aconselhamento, caso necessário. o que esperar o que esperar Ao final deste passo teremos o produto final do planejamento financeiro: o orçamento do­ méstico. Nesse"
+        }
+      ],
+      "tempo_s": 4.8
+    },
+    {
+      "id": 48,
+      "pergunta": "Quais são as etapas práticas recomendadas para calcular o patrimônio líquido, estruturar um fluxo de caixa equilibrado e formar uma reserva de emergência familiar?",
+      "resposta": "Não encontrei essa informação nos documentos fornecidos.",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "GUIA planejamento financeiro.pdf"
+      ],
+      "melhor_distancia": 0.306,
+      "recuperados": [
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.306,
+          "texto": "o produto final do planejamento financeiro: o orçamento do­ méstico. Nesse documento estarão as estimativas de receita para os próximos anos e a forma como pretendemos utilizá-la. Se tudo foi feito conforme os passos anteriores, este documento possibilitará à família per­ seguir seus objetivos, sem deixar de lado as emergências e riscos a que estamos expostos, e nem os planos para a aposentadoria."
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.316,
+          "texto": "que ocorre mensalmente, dando importância a todos os períodos durante o ano. Os autores ainda sugerem que a planilha do orçamento familiar possua cinco colunas. Na primeira, colocam-se as receitas, despesas e investimentos; na segunda, os valores orçados; e na terceira, os valores realmente realizados. A quarta coluna servirá para comparar em percentual a variação dos valores orçados com os"
+        },
+        {
+          "fonte": "GUIA planejamento financeiro.pdf",
+          "distancia": 0.32,
+          "texto": "FINANCEIRO. O OBJETIVO DESTE PASSO É NOS GUIAR PARA PROGRAMAR A COMPOSIÇÃO DESSA RESERVA. FAÇA AGORA FAÇA AGORA Oriente-se pelo seu fluxo de caixa atual e calcule o montante de recursos necessários para cobrir o seu custo de vida por um período de 6 a 12 meses. Some a isso os recursos necessários para cobrir despesas contratadas, como empréstimos e financiamentos, durante esse período. Inclua"
+        },
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.32,
+          "texto": "e gastos, colocar as anotações em uma planilha ajuda a ter uma visão mais ampla das receitas, despesas e gastos avulsos colaborando assim na melhor organização do orçamento familiar. 2.3 ENDIVIDAMENTO FAMILIAR De acordo com Marques e Frade (2003, p. 3) “entende-se por endividamento o saldo devedor de um agregado familiar”. Embora empréstimos, financiamento entre outros créditos particulares sejam"
+        }
+      ],
+      "tempo_s": 0.6
+    },
+    {
+      "id": 49,
+      "pergunta": "De que maneira a contabilidade mental e a facilidade de acesso ao crédito influenciam o comportamento de consumo e a propensão ao endividamento de trabalhadores?",
+      "resposta": "De acordo com os documentos fornecidos, a contabilidade mental e a facilidade de acesso ao crédito podem influenciar o comportamento de consumo e a propensão ao endividamento de trabalhadores da seguinte maneira:\n\nA contabilidade mental pode contribuir para o endividamento ao levar indivíduos a associar felicidade e status social ao ato de comprar bens, criando uma cultura do consumo. Isso pode ocorrer quando as pessoas se sentem pressionadas a manter um padrão de vida mais alto do que o que elas podem pagar, levando-as a usar crédito para financiar suas despesas.\n\nAlém disso, a facilidade de acesso ao crédito pode aumentar a propensão ao endividamento. Quando os indivíduos têm acesso fácil e rápido ao crédito, eles podem se sentir mais confortáveis em usar esse recurso para financiar suas compras, sem considerar as consequências financeiras a longo prazo.\n\nEm resumo, a contabilidade mental pode influenciar o comportamento de consumo ao criar uma cultura do consumo, enquanto a facilidade de acesso ao crédito pode aumentar a propensão ao endividamento ao tornar mais fácil para os indivíduos usar crédito sem considerar as consequências financeiras.\n\n[CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf]",
+      "recusou": false,
+      "fontes": [
+        "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+        "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+        "caderno_cidadania_financeira.pdf"
+      ],
+      "melhor_distancia": 0.236,
+      "recuperados": [
+        {
+          "fonte": "A EDUCAÇÃO FINANCEIRA PARA A GESTÃO DO ORÇAMENTO  PESSOAL E FAMILIAR.pdf",
+          "distancia": 0.236,
+          "texto": "30) “...o endividamento pessoal pode ser visto tanto como efeito de uma gestão financeira equivocada quanto como resultado de motivações afetivas.” A autora comenta que muitos fatores psicológicos influenciam o consumo e em consequência o endividamento; angústia, status e até inveja são alguns deles. Existem dois tipos de endividamento pessoal o ativo e o passivo, segundo Tolotti (2007 p. 31) “O"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.245,
+          "texto": "é muito alto, sendo de 44,92%. Isso demonstra um comportamento financeiro inadequado por parte dessa cota de respondentes, uma vez que tais maneiras de pensar e agir implicam muitas vezes no endividamento pessoal, ocasionado nestes casos pelo uso desenfreado do cartão de crédito acreditando que este permitirá sustentar uma melhor qualidade de vida, como mostram as questões. \"Discordo\" sob o ponto"
+        },
+        {
+          "fonte": "caderno_cidadania_financeira.pdf",
+          "distancia": 0.255,
+          "texto": "estiver endividado, por que não aproveitar a oportunidade? Desvantagens Custo da antecipação do consumo com o uso do crédito implica pagamento de juros A primeira desvantagem em relação ao uso do crédito é o pagamento de juros. Ao anteciparmos a compra de um produto ou a contratação de um serviço sem a devida disponibilidade financeira, usaremos um dinheiro que não é nosso, portanto pagaremos"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.26,
+          "texto": "cultura do consumo, a partir do qual os indivíduos associam felicidade e status social ao ato de comprar bens”. Pode-se dizer que o endividamento não está totalmente relacionado com a renda das pessoas, mas sim, a forma com que estas administram suas receitas e despesas. Nos últimos anos, têm-se registrado níveis de endividamento significativamente elevados e um aumento do não cumprimento dos"
+        }
+      ],
+      "tempo_s": 11.1
+    },
+    {
+      "id": 50,
+      "pergunta": "Como o monitoramento sistemático do fluxo de caixa e a categorização de receitas e despesas contribuem para a disciplina financeira e a realização de metas de longo prazo?",
+      "resposta": "Segundo o documento [FLUXODECAIXA.pdf], o monitoramento sistemático do fluxo de caixa permite que os indivíduos tenham uma visão clara de suas finanças, identificando áreas de gasto excessivo e permitindo ajustes necessários. Além disso, a categorização de receitas e despesas facilita a análise do comportamento econômico, permitindo aos indivíduos identificar padrões e tendências que podem ajudar a alcançar metas de longo prazo.\n\nA categorização de receitas e despesas permite que os indivíduos entendam melhor como seus gastos estão afetando suas finanças e identifiquem áreas onde podem reduzir gastos desnecessários. Isso, por sua vez, contribui para a disciplina financeira, pois os indivíduos são mais propensos a tomar decisões informadas sobre suas finanças.\n\nAlém disso, o monitoramento sistemático do fluxo de caixa e a categorização de receitas e despesas permitem que os indivíduos façam projeções e planejamentos financeiros mais precisos, o que é fundamental para alcançar metas de longo prazo.\n\nNão encontrei informações específicas sobre como o monitoramento sistemático do fluxo de caixa contribui diretamente para a disciplina financeira e a realização de metas de longo prazo em documentos externos.",
+      "recusou": false,
+      "fontes": [
+        "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+        "FINANÇAS PESSOAIS.pdf",
+        "FLUXODECAIXA.pdf"
+      ],
+      "melhor_distancia": 0.251,
+      "recuperados": [
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.251,
+          "texto": "do dia a dia de forma eficiente e economicamente estável. Desta forma com esta pesquisa pretende-se propor um modelo de acompanhamento de fluxo de caixa que facilite o controle das finanças pessoais de um cidadão, contemple a totalidade de suas receitas e despesas e viabilize a análise de seu comportamento econômico. Palavras-chave: controle, orçamento e disciplina. ABSTRAT This paper deals with a"
+        },
+        {
+          "fonte": "FINANÇAS PESSOAIS.pdf",
+          "distancia": 0.282,
+          "texto": "da expressão “educação financeira”. servidores municipais. Silva (2017) Identificar de que forma a contabilidade pode auxiliar estas pessoas na realização do controle orçamentário pessoal. 107 indivíduos que receberam treinamento durante o período de 3 meses. A aplicação de técnicas contábeis de controle orçamentário teve impacto direto e positivo no planejamento financeiro pessoal dos"
+        },
+        {
+          "fonte": "FLUXODECAIXA.pdf",
+          "distancia": 0.31,
+          "texto": "pode destruir as finanças de uma família. O mesmo ocorre com o agendamento de pagamentos. Associar um fluxo de caixa planejado ao uso do débito automático ou agendamento de pagamentos garante que os limites do orçamento sejam visíveis, palpáveis. Fica fácil identificar se houve exagero nos gastos. O interessante é que qualquer empresa que se preze tem um controle semelhante, faz projeções e"
+        },
+        {
+          "fonte": "CONTABILIDADE MENTAL E FINANÇAS COMPORTAMENTAIS.pdf",
+          "distancia": 0.31,
+          "texto": "de disciplina para registrar seus gastos e receitas com regularidade. O estudo do comportamento humano em relação a suas finanças, e o nível de endividamento, possibilita aos indivíduos conhecer melhores maneiras de controlar seu orçamento financeiro, partindo assim para um melhor gerenciamento de suas finanças, evitando um alto grau de endividamento. Revista de Administração e Negócios da"
+        }
+      ],
+      "tempo_s": 11.5
+    }
+  ]
+}
